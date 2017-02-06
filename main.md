@@ -99,7 +99,7 @@ After a moment, the representative asked hesitantly:
 
 "Master Kylo?"
 
-<TK include description/exposition of why computing time requests are needed>
+[TK include description/exposition of why computing time requests are needed]
 
 Kylo walked to his desk, picked up a flimsi and scoured its contents
 absent-mindedly. He already knew what said, and remembered more than read. It
@@ -114,9 +114,9 @@ He turned away in dismissal, and looked towards the large windows. Beyond the
 wing of his shuttle, the planet's horizon was starting to glow blue and red, as
 the sunrise filtered through ice and reflected on clouds.
 
-<TK advisors and assistants and KoR come back in, some banter is exchanged,
+[TK advisors and assistants and KoR come back in, some banter is exchanged,
 representative from workgroup PK-9135 is announced, Kylo doesn't clear the room
-this time>
+this time]
 
 "Azha. Thank you for coming."
 
@@ -128,7 +128,7 @@ audience was there, and niceties were always appreciated.
 
 "Your report? And please do include a little context for those present here."
 
-This was no snub. While both Hux and Kylo were adept [<TK:syn] and
+This was no snub. While both Hux and Kylo were adept [←TK:syn] and
 knowledgeable about simulations, computation, and communication, most of their
 entourage wasn't. Hux would sneer and _encourage_ his advisors to learn a bit
 about the subject "and stop wasting time with stupid questions." Kylo would
