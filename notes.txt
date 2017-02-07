@@ -1,8 +1,5 @@
 Parody jokes as disclaimer play for J J Abrams, George Lucas, Lawrence Kasdan, Michael Arndt, order randomised every chapter and first mentioned rotating. First joke always Chuck Norris style, then the rest as various references: Marauders, 3 little pigs, etc. Never actually referring to Star Wars material.
 
-Paragraph near the end? Or start/middle of Part II?
-Kylo never fell to the Dark. In fact, Kylo shines bright with light stronger than any before him for thousands of years. But the Force taught him to supress his shine, and to disguise himself as a user of the Dark. Kylo could never hate others, could never watch on with indifferrence as horrors were committed, but he could control his emotions and pretend, and hate himself. Sometimes he _curses_ the Force itself, and the Force soothes him, but does not let him shine out with his Light. Not yet.
-
 Pronouns:
 - neutral for everyone
 - chosen pronouns denote status and respect.
@@ -63,11 +60,11 @@ In this fic, the conditions necessary for SW:TFA to begin never occur:
 
 However, there are events still going on:
 
-- R2D2 and Poe are separated during the initial panic when Kylo arrives to Tuanul. R2D2 finds Rey, recognises her as being Force-sensitive, and decides to stay around her to see whether she is worthy to be guided to Luke's Lightsaber, which contains his private key.
+- BB-8 and Poe are separated during the initial panic when Kylo arrives to Tuanul (sure, Kylo is *known* for the above, but at the same time it's not really easy for random civilians to recognise which of the triumvirate a particular shuttle belongs to, at a glance). BB-8 finds Rey, recognises her as being Force-sensitive, and decides to stay around her as that's a better chance to be led to the Resistance, or at least to follow in the guidance of the Force.
 
 - Rey witnesses the interaction between Kylo and Lor San Tekka, and is shocked to learn that the Jedi are real. Kylo detects a Force-sensitive, sees Rey and thinks he might recognise her, but doesn't know from where. Using a passive Force Scan, he gleans from her thoughts her pitiful existence as a scavenger on Jakku. He is briefly tempted to approach her and remove her from poverty, but the Force pushes him to ignore this.
 
-- Poe searches for R2D2 but cannot find it. After Kylo departs from Jakku, he contacts the Resistance and asks for help to recover R2D2.
+- Poe searches for BB-8 but cannot find it. After Kylo (seemingly) departs from Jakku, he contacts the Resistance and asks for help to recover BB-8.
 
 Moreover, the New Republic capital worlds are not destroyed by Starkiller Base:
 
@@ -82,7 +79,21 @@ Nevertheless, Kylo knows that Hux will never be convinced by thoughts and conjec
 
 **This is where the fic starts.**
 
-He receives both reports, sends his conclusions, then meets with Hux to discuss them. Hux is unmoved from his conviction, as he indicates that he has received intelligence that the key might be in the hands of Lor San Tekka, whom they traced to Jakku. Kylo volunteers to go investigate, presumably so that Hux may remain on Starkiller Base to oversee final preparations, and be ready to execute the destruction of the capital worlds as soon as word of the recovery of the key comes back.
+He receives both reports and sends his conclusions.
+
+Meanwhile, he carries out training with the Knights of Ren, and takes them on a short recon mission on a world where intelligence placed a small covert Resistance presence: Morellia. A secondary objective is to possibly find traces of Wild Space map data possibly left by the Graf family.
+
+While there, Kylo receives a transmission that seems to originate from the dead planet Malachor. **and leave it at that**
+
+(Malachor is where Tano was last seen, but don't say that in the text. The entire Tano presence is a very lightly evoked "extra plot" that may be explored in a sequel, or is just a hint/homage for savvy readers otherwise.)
+
+The triumvirate meets to discuss the information and decide on further action.
+
+Hux is unmoved from his conviction, as he indicates that he has received intelligence that the key might be in the hands of Lor San Tekka, whom Admiral Phasma traced to Jakku.
+
+Kylo volunteers to go investigate, presumably so that Hux may remain on Starkiller Base to oversee final preparations, and be ready to execute the destruction of the capital worlds as soon as word of the recovery of the key comes back.
+
+Phasma will move the First Order navy in anticipation of either the destruction of the capital worlds and monitoring that plus destroying any remnants, or the infiltration of the worlds in search of the Key if word comes back to that effect.
 
 Kylo, on his side, prepares several of his plans:
 
@@ -90,19 +101,17 @@ Kylo, on his side, prepares several of his plans:
 
 - He leaves with them emergency orders to disable SKB if it starts to be powered on and targeted before he comes back.
 
-- He prepares for his schism from the First Order.
+**At this point he actually starts for Jakku.**
 
-- He prepares for his escape from the Knights of Ren, becoming simply "Kylo", and not "Kylo Ren".
+- He prepares for his schism from the First Order.
 
 - He directs his fleet to subtly start moving towards neutral territory, and to prepare to drop identifications and disguise themselves as much as possible.
 
-- He sends a message to Ahsoka Tano, telling her he's beginning to move.
-«"Send a message to Ahsoka Tano."
-"Yes, Master Kylo. What shall it say?"
-Kylo paused a moment, cocked his head as if listening to someone, then collected himself and gave his message:
-"'It might be time. Make ready to move, and watch for the Force.'"»
+- He sends a message to Ahsoka Tano, telling her he's beginning to move. [See: snippets/message-to-tano.md]
 
-Then he flies to Jakku to find Lor San Tekka, and check whether the intelligence about the key is true.
+**After arriving on Jakku, but before going for Tekka.**
+
+- He prepares for his escape from the Knights of Ren, becoming simply "Kylo", and not "Kylo Ren".
 
 **See above for what happens around this.**
 
@@ -114,14 +123,14 @@ Kylo debarks a smaller shuttle, and orders his command shuttle along with his ad
 
 He hides from the Knights of Ren so they remain on board the command shuttle, believing him to be there too, while he stays on Jakku with his smaller shuttle until the Knights and other First Order presence is far enough away that he can move.
 
-Finn is directed by a rebel faction within Kylo's forces to stay on Jakku to spy on Kylo. However, Finn is loyal to Kylo first, and to the First Order only through Kylo's perceived loyalty to the First Order. Kylo is responsible for the changes to stormtrooper culture, and Finn is grateful that they do not have to kill any more innocents, as they did several times prior to being moved to Kylo's troops.
+Finn is directed by a rebel faction (Finn's unit was trained directly under Admiral Phasma for a time) within Kylo's forces to stay on Jakku to spy on Kylo. However, Finn is loyal to Kylo first, and to the First Order only through Kylo's perceived loyalty to the First Order. Kylo is responsible for the changes to stormtrooper culture, and Finn is grateful that they do not have to kill any more innocents, as they did several times prior to being moved to Kylo's troops.
 
 Kylo decides to seek out the Force-sensitive he detected while meeting with Lor San Tekka, while worrying about how his plans are going.
 
 Finn is following Kylo, and going through their own identity crisis as they learn more about Kylo while he goes about behaving very differently from the image he projected while a part of the First Order.
 
-Rey is still a scavenger, but now has the companionship of R2D2.
+Rey is still a scavenger, but now has the companionship of BB-8.
 
-Poe searches for R2D2 and is in communication with the Resistance.
+Poe searches for BB-8 and is in communication with the Resistance.
 
 **End of Part I**
