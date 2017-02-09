@@ -11,7 +11,7 @@ the new arrival. He watched in the reflection of the room on the window glass
 as each member of the room ackowledged, also silently, but noted that the new
 Knights of Ren recruit had hesitated briefly before selecting the correct
 hand-sign in response. He resolved to have them practice communication
-protocols during the upcoming hyperspace trip.
+protocols during the next hyperspace trip, before they needed them.
 
 The door closed behind his staff, leaving the representative alone with Kylo,
 who turned around to face them. He immediately noted the nametag and greeted
