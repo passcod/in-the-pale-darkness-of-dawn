@@ -157,4 +157,9 @@ end. This standard month, Hux was 27 staff ahead, but Kylo lead on the
 Stormtrooper front by an entire unit. That it was considered 'up there' in the
 informal ranking was but a pleasant bonus.
 
+In this particular case, Kylo also wanted to have this serve as a lesson and
+primer on cartographic systems for his new Knight, as well as a small test on
+paying attention: he'd question the young recruit during training on details
+talked about here.
+
 "Certainly, Master Kylo. The
