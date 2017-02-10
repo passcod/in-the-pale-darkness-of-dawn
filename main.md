@@ -162,4 +162,64 @@ primer on cartographic systems for his new Knight, as well as a small test on
 paying attention: he'd question the young recruit during training on details
 talked about here.
 
-"Certainly, Master Kylo. The
+"Certainly, Master Kylo. Due to the way our cartographic system works, there
+are multiple ways to attack the problem," here, Azha paused briefly as Kylo
+looked slightly questioning, "ah, the problem being that we know Skywalker is
+hidden somewhere but we don't have his path or location… and we'd like to.
+
+"Now, the system we colloquially call the 'Galaxy Map' or simply 'the map' is
+actually a large-scale — Galaxy-scale, really — distributed system that every
+single entity, ship, planet, station, you name it, uses and contributes to.
+It's also very old, having been first established, as far as we can tell, soon
+after the first forays into inter-star-system travel. Its exact origin,
+including which species was responsible, is unknown… and irrelevant.
+
+"Having a single galaxy-spanning system means that every ship, every navicomp,
+every AI, every droid, everything and everyone can use it and plug into it and
+add to it. That's the reason why we can appropriate ships and not have to
+completely replace their navigation systems to be able to fly anywhere. Sure,
+our enemies also get that advantage, but nobody actually thinks about it, and
+very few people know about it, so it's not that big an inconvenience,
+especially given the considerable benefits.
+
+"The way information is specialised and hidden from the general public is
+through crypted Overlays. Overlays can contain various metadata… shipping
+routes, names of planets in languages other than Basic, demographics, political
+affiliations, or the residence of certain people. Overlays are actually also
+available globally through the map system… but they're all crypted using Keys.
+Without the right Key, you can't even know which sectors are covered by an
+Overlay, much less who maintains it.
+
+"So, we're not looking for a 'fragment of a map', as I've heard it put," there
+was a hint of disgust in Azha's voice. "We're looking for two things: the right
+Overlay, and the Key to unlock it. And from there our angles of attack:
+
+"First, we can avoid doing any kind of cryptography work at all, and simply visit every planet we don't already know about."
+
+In the back, Nueb snorted. A Sullustan, Tanel Nueb was one of the rare
+non-humans serving as an officer of the First Order. The specieism inherited
+from the Empire had faded somewhat, but still remained as something more than
+just unconscious bias. Nueb had very high skill not only in economics and
+strategy as his people were known to, but also had a keen understanding of such
+a wide variety of topics that Kylo wasted no time in asking him as an advisor.
+That Sullustans in general had a historical habit of working for or with the
+Alliance and its offshoots was but a happy bonus.
+
+"That is a foolish endeavour if I ever heard one," he interrupted.
+
+"Quite." Azha acquiesced. "Besides, we're already doing that, or rather,
+Admiral Phasma has a taskforce or two dedicated to visiting worlds."
+
+Nueb looked surprised at this, then interested, then returned to an impassive
+mask. Kylo knew he would immediately start looking into this, as soon as
+possible after the meeting ended.
+
+"The second possibility is to attack the Overlay instead of attempting to find
+the Key through one mean or another. I said the Map is old in its origins. Due
+to compatibility concerns, the security measures surrounding Overlays are also
+fairly old. The last update to their cryptography dates back two hundred years.
+So, in theory, it's much weaker than the Key, and should be easier to break.
+
+"In practice, though, we have no idea which Overlay is the right one. We would need to attack all Overlays we can't read, going through them all sequentially until we find something. We have one of the largest collections of Keys at our disposition… perhaps _the_ largest but we don't really know the extent of the Republic's own vaults. And yet, there are still thousands of Overlays we cannot read. Most are probably only proprietary trade routes. So that's also unfeasible.
+
+"The last possibility, short of physically finding the Key, is to
