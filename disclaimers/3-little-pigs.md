@@ -1,0 +1,1 @@
+George Lucas built his house from straw, and it was blown away. J J Abrams built his house from sticks, and it was set on fire. Lawrence Kasdan built his house from bricks, and the door lock was picked. Michael Arndt rented a floor in a glass skyscraper. Security threw the wolf out and the courts slapped a restraining order on.
