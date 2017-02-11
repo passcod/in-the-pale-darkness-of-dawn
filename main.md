@@ -201,7 +201,7 @@ non-humans serving as an officer of the First Order. The specieism inherited
 from the Empire had faded somewhat, but still remained as something more than
 just unconscious bias. Nueb had very high skill not only in economics and
 strategy as his people were known to, but also had a keen understanding of such
-a wide variety of topics that Kylo wasted no time in asking him as an advisor.
+a wide variety of topics that Kylo wasted no time in tapping him as an advisor.
 That Sullustans in general had a historical habit of working for or with the
 Alliance and its offshoots was but a happy bonus.
 
