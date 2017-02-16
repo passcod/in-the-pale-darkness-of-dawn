@@ -79,5 +79,5 @@ and derived from it a Constitution and from there, a body of laws.
 
 Aside from those three, which are known as "The Big Three" outside of them,
 there's smaller governments: the Hutt Clan, various Pirate organisations, the
-Nal Raka criminal empire, Nar Shaddaa, the Corporate Sector, and various
-independents.
+Nal Raka criminal empire, Nar Shaddaa, the Corporate Sector, the Morellian
+Commonwealth, and many smaller independents.
