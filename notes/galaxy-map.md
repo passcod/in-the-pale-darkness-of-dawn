@@ -34,3 +34,19 @@ specialised and secret ones, and what was recovered from the Old Republic, as
 well as some of the Empire's Keys as defined by treaty. Then they made theirs.
 
 Both of these last two also share some newer ones as they are allied.
+
+Cartographers (like the Graf family) published the base positions of systems to
+the Map, and then sold Keys to Overlays with more information.
+
+Organisations operating in the Unknown Regions pushed to the extreme, firstly
+in coverage as the Galaxy Map network requires relays... which aren't
+necessarily documented in the URs... but also by using crypted Overlays to map
+systems. However, to get around limitations, they would mark stars as
+free-floating planets, or as other objects not required to be included on the
+main Map. As a result, navicomps had difficulty plotting accurately, and the
+gravity wells were often not well defined, causing hyperspace jumps to be
+fraught. Additionally, a large amount of *false* cartographies presented as
+real ones float around the black markets, both by opportunists trying to make
+money, or by UR residents trying to confuse Knwon Regions explorers. All that
+means you either have to be part of an organisation that knows its stuff, or be
+extremely knowledgeable yourself, to be able to get around the UR safely.
