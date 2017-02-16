@@ -1,4 +1,5 @@
-Parody jokes as disclaimer play for J J Abrams, George Lucas, Lawrence Kasdan, Michael Arndt, order randomised every chapter.
+Parody jokes as disclaimer play for J J Abrams, George Lucas, Lawrence Kasdan,
+Michael Arndt, order randomised every chapter.
 
 Each joke with a different reference / theme:
 
