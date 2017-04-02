@@ -1,5 +1,6 @@
 - {Scene: Leia and Han meet with some of the Resistance leadership.}
 - {See context in notes/leia-joining-back.md}
+- {TK: write what comes before}
 
 "The Republic…" she {TK: Marli Drana, introduced earlier} sniffed. "Well, they
 have their goals."
@@ -42,10 +43,12 @@ are many who did, and there are many who joined later. But you've been away,
 and you haven't kept up."
 
 She hesitated. "Luke understood," and Leia's eyes widened a bit. "Yes. He
-helped us. Were he here… well, things would be different. But he would do like
-they did, and speak up, and say he grew up on Tatooine. And Tatooine, to the
-exception of maybe one or two cities, is still under the control of the Hutt
-Clan on one side and the remnants of the Empire on the other."
+helped us. Were he here… well, those introductions would be different. But he
+would do like they did, and speak up, and say he grew up on Tatooine. And
+Tatooine, to the exception of maybe one or two cities, is still under the
+control of the Hutt Clan on one side and the remnants of the Empire on the
+other. If the Jedi Order still existed, still was strong, they could have
+deployed their presence once again. But it is not. Yet."
 
 "His adoptive parents are dead, but the friends he'd made? During the first few
 years after the defeat of the Empire, he travelled to Tatooine, and he got them
