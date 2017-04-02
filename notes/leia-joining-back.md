@@ -1,5 +1,3 @@
-- [Scene: Leia and Han meet with some of the Resistance leadership.]
-
 - [Context: Leia is lost after Ben turned to the dark side. There's a asymmetry
   of information, as Luke has really come through fast to bring the news and
   has told different fragments to different people. To Leia, he's told that Ben
