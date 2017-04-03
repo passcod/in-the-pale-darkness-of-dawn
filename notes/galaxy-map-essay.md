@@ -60,12 +60,13 @@ reinventing communication every so often, trying to defeat the trade-off of
 bandwidth vs quality vs distance. The HoloNet seems to have been the ultimate
 try: capable of communications across the Galaxy or beyond, i.e. several
 hundred _thousand_ light years, but it was expensive and apparently too new to
-be used by a lot of people for a lot of things, and kept mostly for naval comms
-and official broadcasts. Subspace radios, the next best thing and dirt cheap to
-use, only had a maximum range of a hundred light years, and the cheapest and
-most reliable channel at distances beyond that was, essentially, the postal
-service. With hyperspeed freighters, sure, but still mostly physical transfer
-of data sticks or holopads or whatever they're called.
+be used by a lot of people for a lot of things, and kept mostly for navies of
+all sorts, extensively by the Jedi Order, and for official government
+broadcasts. Subspace radios, the next best thing and dirt cheap to use, only
+had a maximum range of a hundred light years, and the cheapest and most
+reliable channel at distances beyond that was, essentially, the postal service.
+With hyperspeed freighters, sure, but still mostly physical transfer of data
+sticks or holopads or whatever they're called.
 
 But that's recent history, and those people have been flying for millenia. No.
 I think, and that's the theory in this fic, that there is an ancient comm
@@ -76,15 +77,20 @@ from clear across the galaxy in apparent real-time, so imagine a network
 harnessing the Force to transmit and/or store information, instantly across the
 galaxy, but at very low bandwidth), but not in an obvious way. High-fidelity,
 very high-distance (maybe even inter-galactical), low-bandwidth, and apparently
-impossible to use for anything else than the Galaxy Map.
+impossible to use for anything else than the Galaxy Map (at least without the
+User Manual, which would have been lost a few dozen millenia prior).
 
 A strong set of protocols enabling the sharing, galaxy-wide and
 publicly-available, of the basic map data: positions and physics of stars,
 systems, black holes, etc, as entered and maintained by cartographers and
 automated systems. And then a crypted, multi-layered system of "data packs"
 capabale of recording and providing (given a key unique to the pack) arbitrary
-information about any number of positions on the map. Like the Internet has the
-free public interface of DNS servers that provide a reliable, low-latency,
+information about any number of positions on the map (politics, demographics,
+bounties, land masses, geography, chemistry and geology, mining opportunities,
+Jedi and Sith Temples, lightsaber crystal caves, flora and fauna, iron-rich
+asteroids, brothels and sex shops, scientific research poles, weed and spice,
+love notes, geocaches, and so on and so forth). Like the Internet has the free
+public interface of DNS servers that provide a reliable, low-latency,
 distributed, read/write-but-with-access-controls, optionally-crypted, network
 that can store arbitrary data around a common protocol designed to map out
 servers and services.
