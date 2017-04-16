@@ -2,9 +2,31 @@
 
 A Star Wars: The Force Awakens fanfic.
 
-Story is in five threads:
+Folders:
+
+- Disclaimers: prepared disclaimer blurbs.
+- Notes: about everything or anything.
+- Snippets: Bits and pieces of scenes not attached to anything yet.
+- Threads: Actual drafted material for the story.
+
+Story is in four threads:
 
 ## Saka
+
+|Event|In-Universe|Outside|
+|---|---|---|
+|Saka born|10 BBY / Y3643|Mentioned only|
+|_Mandator_ arrives|9 BBY / Y3644|Flashbacks/recollection only|
+|Saka's mother marries|8 BBY / Y3645|Mentioned only|
+|Run: school and Rim-wondering|2 BBY / Y3651|First scene|
+|Run: tenth birthday and the Hush, feel of something terrible but nobody knows what|late 1 BBY / Y3652||
+|_Eclipse_ arrives|4 ABY / Y3658||
+|Scene: in school, rumour/gossip of xenophobia of recent arrivals|||
+|Run: learns from drunk stepfather of Aldeeran and of the _Mandator_'s arrival|||
+|Run: decides to start training for candidature in a corps, unsure which|||
+|Sloane arrives|5 ABY / Y3659||
+|Run: walking a market, overhearing/spying tales of the Rim, resolves to one day see it|Y3660||
+|Run: sending candidature to First Order under fake name|Y3662||
 
 A young human girl in an entire Union of systems that separated from the Known
 Regions (here called the Rim worlds) just after the Treaty of Coruscant, and
@@ -24,18 +46,22 @@ Imperial warring.
 
 Saka is a teenager chaffing, like her mother before her, at the confines of
 their home system. Her mother had no opportunities to escape beyond a service
-in _Unteli_'s first military and then community corps, after which she fell in
-love with a former Empire immigrant and settled. Saka, though, now has a
-choice: either the safe option, to serve _Unteli_ (or another of the Union
-worlds), or the much more dangerous option, to enlist with the fledging First
-Order and have the chance to travel beyond the Union, and see the Rim.
+in _Unteli_'s first military and then community corps, after which she had Saka
+(from a relation in the corps that didn't pan out), before falling in love, a
+couple of years later, with a former Empire immigrant.
 
-Unnerved by her father's stories and hints of Empire warfare and losses, she
-has no interest in staying a low-grade officer and die prematurely. So while
-she abhors the xenophobic and purity politics the First Order prophesses, she
-aims for the top, steels herself, trains hard, affects a mask of ruthlessness,
-and lies through her teeth to reach as high a command as she can get. In a
-male-dominated and actively hostile society and military, that's no easy goal.
+Saka, though, now has a choice: either the safe option, to serve _Unteli_ (or
+another of the Union worlds), or the much more dangerous option, to enlist with
+the fledging First Order and have the chance to travel beyond the Union, and
+see the Rim.
+
+Unnerved by her step-father's stories and hints of Empire warfare and losses,
+she has no interest in staying a low-grade officer and die prematurely. So
+while she abhors the xenophobic and purity politics the First Order prophesses,
+she aims for the top, steels herself, trains hard, affects a mask of
+ruthlessness, and lies through her teeth to reach as high a command as she can
+get. In a male-dominated and actively hostile society and military, that's no
+easy goal.
 
 To protect her family from any repercussion she might engender, she chooses a
 false name before posting her candidature for immigration to the First Order
@@ -46,6 +72,19 @@ moon: Phasma.
 ## Rey
 
 ## The Resistance
+
+|Event|In-Universe|Outside|
+|---|---|---|
+|Run: Luke and pre-Alliance Rebellion groups conferring, hoping, waiting|4 ABY|Prologue?|
+|Republic refuses to send help to Kashyyyk, then Mon Mothma assassination attempt|5 ABY|Mentioned|
+|Scene: meeting where people are dispatched to start organising/assembling others|||
+|Official Declaration of the Resistance|6 ABY|Mentioned/Flashback|
+|...|||
+|Run: Vitchum talking about, and then: the rescue of a world|||
+|...|||
+|Scene: Leia joining back|||
+|...|||
+|Scene: Leia and Rey|||
 
 From various points of view, the story of a stronger, more independent
 Resistance. Initially without Leia, but she joins later on.
