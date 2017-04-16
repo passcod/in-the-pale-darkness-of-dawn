@@ -87,29 +87,31 @@ themselves The Resistance For All Beings, or simply the Resistance for short,
 and organised both a military branch and a civilian branch. Sullust, Gatalenta,
 Lonera, and a few other worlds immediately backed them.
 
-Within 15 years, they had liberated, fought for, or aided more than 80 planets,
+Within 15 years, they had liberated, fought for, or aided more than 50 planets,
 offering choice (not only joining them, but also going independent or even
-joining any of the other free groups, including the New Republic) every time.
+joining any of the other free groups, including the New Republic) every time. Other worlds voluntarily joined them, some entire federations or alliances or other such groups of systems merged with them, etc.
+
 When Leia came out of self-imposed retirement (after fighting wars her entire
 life, and then watching the New Republic repeat the same mistake, she'd done
 away from being directly involved with politics for a while) in 21-22 ABY, the
-Resistance counted upwards of 170 worlds, 138 of which were economic members,
-and 129 who had representatives on the governmental body [TK: Chamber?
-Parliament? Council?].
+Resistance counted 112 worlds, 98 of which were economic members, and 79 who
+had representatives on the governmental body [TK: Chamber? Parliament?
+Council?]. At TFA#End (around 34-35 ABY), membership was upwards of 170 worlds.
 
 The fic follows various people at various times when they had a significant (in
 terms of plot and story) influence on the development and continued existence
 of the Resistance. Among them:
 
-- Lor San Tekka, a Force-believer who mostly spends time around Luke's New Jedi
-- Col Dorr, a Representative in the Resistance's government
-- Alseen, another Rep
-- Digla, a Mon Calamari ship technician
-- Lando, a high-ranked administrator in the Interplanetary Corps
-- Jessika, a pilot in the Resistance navy
-- Poe, a pilot at first, and then a commander in the Resistance navy
-- Leia, at first in Interplanetary Corps, then in Military command
-- Vitchum, [TK: who is zie?]
-- Joph Seastriker, [TK: see wiki]
-- Zavi Bangel, [TK: see wiki]
+- Lor San (he), a Force-believer who mostly spends time around Luke's New Jedi
+- Col Dorr (she), a Representative in the Resistance's government
+- Alseen (zie/zir), another Rep
+- Digla (they), a Mon Calamari ship technician
+- Lando (he), a high-ranked administrator in the Interplanetary Corps
+- Jessika (she), a pilot in the Resistance navy
+- Poe (he), a pilot at first, and then a commander in the Resistance navy
+- Leia (she), at first in Interplanetary Corps, then in Military command
+- Vitchum (zie/zir), an IC world rehabilitation technician/strategist
+- Joph Seastriker (he), [TK: see wiki]
+- Zavi Bangel (she), [TK: see wiki]
+- possibly others, TBD
 
