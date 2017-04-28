@@ -47,25 +47,28 @@ helped us. Were he here… well, those introductions would be different. But he
 would do like they did, and speak up, and say he grew up on Tatooine. And
 Tatooine, to the exception of maybe one or two cities, is still under the
 control of the Hutt Clan on one side and the remnants of the Empire on the
-other. If the Jedi Order still existed, still was strong, they could have
-deployed their presence once again. But it is not. Yet."
+other. Even though he was freeborn, he knows that _slavery_ existed, and Force!
+it exists on Tatooine _now_. If the Jedi Order still existed, still was strong,
+they could have deployed their presence once again. But it is not. Yet."
 
-"His adoptive parents are dead, but the friends he'd made? During the first few
-years after the defeat of the Empire, he travelled to Tatooine, and he got them
-out. Some are with us."
+"His adoptive parents are passed, but the friends he'd made? During the first
+few years after the defeat of the Empire, he travelled to Tatooine, and he got
+them out. Some are with us."
 
 Leia recalled: "He told me. About finding some of his friends from before. I
 met one of them! I thought— I didn't realise… I think, I think I kept away from
-what reminded me…"
+what reminded me, and after Kashyyyk and Mon Mothma…"
 
 Marli reassured her: "We know. As I said. We understand. But, so. When the
 Alliance was disbanded, we came together. And we talked. The Republic wasn't
-interested. We didn't want to give up. So we stayed together, and we declared
-ourselves. We said—"
+interested. We didn't want to give up. So we stayed together. And after those
+troubles in the first few years of this era… we lost faith that the Republic
+would ever be New and Strong enough to fight for good. We decided to do
+something about that. We declared ourselves. We said:"
 
-And at those words the entire room stood up a bit straighter, and all together
-recited, some in a murmur, some loud, some with a smile, some with
-determination, most in Basic, some in Shyriiwook, but all with pride:
+And as she began, the entire room quieted, and seemed to stand a bit taller,
+and all together recited, some in a murmur, some loud, some with a smile, some
+with determination, most in Basic, some in Shyriiwook, but all with pride:
 
 "We, free beings of the Galaxy, establish a Resistance and declare our
 commitment: To fight against tyrannies large and small, yesterday, today, and
