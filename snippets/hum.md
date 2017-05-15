@@ -1,0 +1,6 @@
+...
+at the highest peak, on the tallest ship
+...
+in the pale darkness of dawn
+I will wait for you, my child
+I will wait for you forever.
