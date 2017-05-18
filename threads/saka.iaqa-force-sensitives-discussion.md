@@ -44,11 +44,12 @@ and asked:
 until years later, how did you know something had happened? How can it be
 called the Hush if you didn't get the news?”
 
-Saka stared. Everyone knew about the Hush, because everyone hushed at once. And
-did so twice over. What did he mean about news? She could understand the first
-time, as a non-sensitive pilot he'd been alone and wouldn't have witnessed
-others, but the second time, grounded on a base with many people around… her
-eyes grew with the implications. And then she felt someone tugging at her.
+Saka stared. _Everyone_ knew about the Hush, because everyone hushed at once.
+And did so twice over. What did he mean about news? She could understand the
+first time, as a non-sensitive pilot he'd been alone and wouldn't have
+witnessed others, but the second time, grounded on a base with many people
+around… her eyes grew with the implications. And then she felt someone tugging
+at her.
 
 “Saka! Saka. You're alright? I'm sorry, what did I say? You spaced out and
 started trembling.”
@@ -57,7 +58,7 @@ She stared some more, but briefly, as she forced herself to nod and took a deep
 breath, then released it slowly, and went through a short breathing exercise
 while she hummed to herself something her mother used to hum to her.
 
-at the highest peak, on the tallest ship
+_at the highest peak, on the tallest ship_
 
 “The first time, Jedha, I was at home. Playing. I was five and a half. My
 mother was in the other room. And then I was at the Healers’ and everyone was
@@ -70,8 +71,8 @@ hypospray pretty much immediately, so it wasn’t so bad. The aftermath was
 rough. It’s still hard. But I’ve had years of therapy in the meantime, so that
 helped.”
 
-Saka finished speaking, then noticed that Iaqa was looking at her very
-strangely.
+Saka finished speaking, then noticed that Iaqa was looking at her _very
+strangely_.
 
 “What?”
 
@@ -79,19 +80,19 @@ strangely.
 
 “What?! No—” but Iaqa was still speaking.
 
-“Wait, before that, the government helped you? Are you royalty? Are Jedi
+“Wait, before that, the _government_ helped _you_? Are you royalty? Are Jedi
 royalty where you come from? And therapy? Years of it?”
 
 “Iaqa, stop, stop! I’m not a Jedi. What are you talking about?”
 
-“You said you felt it.”
+“You said you _felt_ it.”
 
 “Well, yeah, me and thousands of other beings.”
 
-“There’s thousands of Jedi?!”
+“There’s _thousands of Jedi_?!”
 
-“I just told you I’m not a Jedi! Iaqa. Okay. Can we just, calm down and try to
-figure this out? I think that answers a few of my questions, too.”
+“_I just told you I’m not a Jedi!_ Iaqa. Okay. Can we just, calm down and try
+to figure this out? I think that answers a few of my questions, too.”
 
 Iaqa continued to stare at her, but relented, and nodded.
 
@@ -99,8 +100,8 @@ Iaqa continued to stare at her, but relented, and nodded.
 
 Saka held a hand up.
 
-“Let’s just stop, both of us, with the assumptions. And um, no. I’m not
-royalty. There hasn’t even been royalty in the Union since before it was a
+“Let’s just stop, _both of us_, with the assumptions. And um, no. I’m not
+royalty. There hasn’t even _been_ royalty in the Union since before it was a
 Union.”
 
 “Union? Wait, nevermind that, you’ll explain about the astropolitics of your
@@ -122,29 +123,29 @@ of us are unaffiliated, with only basic training to not be overwhelmed and
 respect privacy, and that’s what I find disturbing about your story.”
 
 “Because we don’t have any Force-sensitives.” He was looking troubled now. “You
-didn’t get the news like we did, your… entire population of Force-sensitives
-felt the… the Hush. And to have a government response, and a plan in place for
-the next time… which you wouldn’t know would happen, right?”
+didn’t _get the news_ like we did, your… entire population of Force-sensitives
+_felt_ the… the Hush. And to have a government response, and a plan in place
+for the next time… which you wouldn’t know would happen, right?”
 
 “The more sensitive ones were getting visions, but we didn’t know whether it
 was, um. Replays. Or if it was a warning, or the future, or what. So they
 assumed there would be a possible repeat and planned for that.”
 
-Iaqa murmured something that sounded like your government sounds much nicer
-than ours, but Saka wasn’t sure, nor sure about what to say to that, and anyway
-he was already continuing.
+Iaqa murmured something that sounded like _your government sounds much nicer
+than ours_, but Saka wasn’t sure, nor sure about what to say to that, and
+anyway he was already continuing.
 
 “How many, well, you might not know, but it would be a lot, for the government
-to prepare like that. Unless you have a very small world.”
+to prepare like that. Unless you have a _very_ small world.”
 
 “On my planet, the population, total, is just over one billion. The
 Force-sensitives are a bit less than a tenth of a percent of the population. We
 learn that in school.”
 
-Iaqa was floored. If he wasn’t already sitting on it, he’d have fallen down. A
-million Force-sensitives. “Stars” he breathed. Then something occurred to him.
+Iaqa was floored. If he wasn’t already sitting on it, he’d have fallen down. _A
+million Force-sensitives._ “Stars” he breathed. Then something occurred to him.
 
-“Your planet? How many are there on other planets?”
+“_Your_ planet? How many are there on _other_ planets?”
 
 “Well, the total population of the Union is 217 billion 300 million… something.
 It’s been a long time since I was at school. And the percentage of
@@ -193,15 +194,15 @@ Force-sensitives are born, and have been at it for the last three and a half
 millennia?”
 
 “I mean, that’s one hypothesis. Could be something else. Whatever the reason,
-there should be way more Force-sensitives, and way more Force-users, in the
+there should be way more Force-sensitives, and way more Force-_users_, in the
 Rim. That there’s not is frankly distressing. How do you tell if something bad
 is going to happen? How do you find habitable planets? How do you judge beings
 in courts of law? Who do you consult to find out if pregnancies are viable? How
-do you find lost friends and family? How do you live?”
+do you find lost friends and family? How do you _live_?”
 
 “Force-sensitives do all those things?”
 
-“Yes! Of course! We have to work, too. Why not use our innate skills?”
+“_Yes!_ Of course! We have to work, too. Why not use our innate skills?”
 
 “The Jedi, our Jedi, were just peacekeepers. And not very good ones at that,
 there were conflicts all the time.” He thought for a moment. “I suppose if they
@@ -213,8 +214,8 @@ important. And peacekeeping sounds pretty important.”
 “I’m just. I can’t imagine living a life as a non-sensitive without all these
 things. And I’m really sad that dozens or maybe hundreds of generations didn’t
 get to experience all that. A marriage officiated by a Force-sensitive is
-beautiful. Not all of them are, but those that are… they’re some of the most
-sacred occasions I’ve ever been part of.”
+_beautiful_. Not all marriages are, but those that are… they’re some of the
+most sacred occasions I’ve ever been part of.”
 
 “You officiated marriages?”
 
@@ -235,7 +236,7 @@ sensitives, but they had to plan for it anyway. Just in case.”
 Iaqa stayed silent, his head bent in contemplation. After a few minutes, he
 asked:
 
-“On last thing. You said years of therapy.”
+“One last thing. You said years of therapy.”
 
 “Let me guess: nobody offered therapy to everyone.”
 
@@ -251,9 +252,11 @@ you, and the parents and children and siblings and friends and all the rest.”
 
 “Basically, yes. Also, not everyone reacted the same way. I told you mine, and
 Alderaan was worse, but I was young and I’m only moderately sensitive. Some
-died.”
+died.” She spoke in a slightly detached manner, explaining without getting
+drawn into the memories. It had taken a long time to be able to speak of it,
+and longer still not to break down each time.
 
-“Oh stars.”
+“Oh stars. Oh no.”
 
 “Some were only mildly bothered, but they could tell something was very wrong,
 so they rushed towards assembly points or to those who they knew were more
@@ -268,7 +271,7 @@ Iaqa was frowning.
 
 “You know, when I think about it. I mean, it was thirty years ago, so maybe
 it’s just my memory and wishful thinking. But I’m pretty sure that some pilots
-started dropping before the news of Jedha came.”
+started dropping _before_ the news of Jedha came.”
 
 “So there would be Force-sensitives who just don’t know—” Saka looked excited.
 
@@ -277,15 +280,16 @@ started dropping before the news of Jedha came.”
 “Or who are hiding, true. But still, it could mean there’s a lot more out there
 than is reported, or that the Jedi knew about.”
 
-“I really have to tell all this to someone.” Iaqa got up. “Want to come with?”
+“I really have to tell all this to _someone_.” Iaqa got up. “Want to come
+with?”
 
 “Where are we going? Who are you going to tell?”
 
 “I’d put it through the hierarchy, but… I think this should go straight to the
 top. I know someone who knows the Princess, I’m sure we could convince hir.”
 
-“The Princess? You know royalty?” But Saka saw immediately the teasing wasn’t
-provoking humour. “I’m sorry—”
+“The Princess? _You_ know royalty?” But Saka saw immediately the teasing wasn’t
+provoking humour. “I’m sorry—” but he waved her off.
 
 “Nah, you didn’t know. The Princess is not royalty of much anymore. She’s Leia
 Organa of Alderaan.”
