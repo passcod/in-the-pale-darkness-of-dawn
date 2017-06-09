@@ -132,7 +132,7 @@ for the next time… which you wouldn’t know would happen, right?”
 was, um. Replays. Or if it was a warning, or the future, or what. So they
 assumed there would be a possible repeat and planned for that.”
 
-Iaqa murmured something that sounded like _your government sounds much nicer
+Iaqa muttered something that sounded like _your government sounds much nicer
 than ours_, but Saka wasn’t sure, nor sure about what to say to that, and
 anyway he was already continuing.
 
@@ -178,7 +178,7 @@ regime there had been.”
 
 “Second?”
 
-“The Old Republic before the New Republic became the New Republic?”
+“The Old Republic before the New Republic became the Old Republic?”
 
 Iaqa laughed. “You have a point. But why Second? I thought that would be the
 First.”
@@ -287,7 +287,7 @@ with?”
 “Where are we going? Who are you going to tell?”
 
 “I’d put it through the hierarchy, but… I think this should go straight to the
-top. I know someone who knows the Princess, I’m sure we could convince hir.”
+top. I know someone who knows the Princess, I’m sure we could convince zir.”
 
 “The Princess? _You_ know royalty?” But Saka saw immediately the teasing wasn’t
 provoking humour. “I’m sorry—” but he waved her off.
