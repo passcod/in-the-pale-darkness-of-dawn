@@ -117,11 +117,11 @@ time to notice. So, how can you not be a Jedi?”
 Force-sensitives. But there’s many others, although I don’t know if the names
 or groups who I was told lived in Rim are still the same now. The Witches of
 Dathomir. The Jedaa’i of Idar. The Baran Do sages. The paladins. The various
-Walker families. The Guardians of the Whills. The Sith, of course. And the Jedi
-of Ossus. That’s only the few I remember from lessons, though. That’s only
-organised groups, though. Most of us are unaffiliated, with only basic training
-to not be overwhelmed and respect privacy, and that’s what I find disturbing
-about your story.”
+Walker families. Naha, er... something. The Beatific Siblings. The Guardians of
+the Whills. The Sith, of course. And the Jedi of Ossus. That’s only the few I
+remember from lessons, though. That’s only organised groups, though. Most of us
+are unaffiliated, with only basic training to not be overwhelmed and respect
+privacy, and that’s what I find disturbing about your story.”
 
 “Because we don’t have any Force-sensitives.” He was looking troubled now. “You
 didn’t _get the news_ like we did, your… entire population of Force-sensitives
