@@ -22,7 +22,7 @@ were left in place.]
 18 BBY  -- Ahsoka is working for the Fardis (not mentioned).
         -- Hedala (7) starts to manifest (very short flashback - 1/2 phrases).
 EmpireD -- Ahsoka steals the Fardis' shuttles and escapes (indirect mention).
-        -- Naema (11) hears about it.
+        -- Naema (11) hears it and about it.
 
         -- Hedala (8) is watched by a shadow (not mentioned).
 
@@ -40,7 +40,7 @@ EmpireD -- Ahsoka steals the Fardis' shuttles and escapes (indirect mention).
         -- They're not yet ready to trust others, though, and they have contracts still.
 
  7 BBY  -- Waiting for an Empire training exercise to finish before they take off from
-           Cargamalis before after transacting with a smuggler known as Riley.
+           Cargamalis after transacting with a smuggler known as Riley.
         -- Naema (21) surprises Hedala (19) with a birthday present.
 
  6 BBY  -- Naema (23) goes to a Rebels meet organised on the Tsoss asteroid, in the
@@ -82,5 +82,3 @@ EmpireD -- Ahsoka steals the Fardis' shuttles and escapes (indirect mention).
            refugees, fighters, pilots, nomads, traders, etc... assemble to create and
            Declare the Resistance, a new faction expressely dedicated to a free galaxy.
 ]
-
-It was Empire day. 
