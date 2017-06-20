@@ -22,13 +22,26 @@ were left in place.]
 18 BBY  -- Ahsoka is working for the Fardis (not mentioned).
         -- Hedala (7) starts to manifest (very short flashback - 1/2 phrases).
 EmpireD -- Ahsoka steals the Fardis' shuttles and escapes (indirect mention).
-        -- Naema (11) hears it and about it.
+        -- Naema (11) hears and sees it while at Empire Day celebration with
+           her parents.
 
         -- Hedala (8) is watched by a shadow (not mentioned).
 
 17 BBY  -- Ahsoka comes back (not mentioned).
         -- Hedala (9) tells Ahsoka about the shadow (vague reference).
         -- Ahsoka leaves again (not mentioned).
+
+16 BBY  -- Naema's (12) parents are disappeared by the Empire. While she does
+           not see it happening, she believes them dead. She starts to fend
+           for herself and begins planning an escape in a long term plan.
+
+14 BBY  -- Naema (15) works at a branch of an aeronautical company cleaning
+           reclaimed components from ship wrecks and 'sold for parts' vessels
+           so they can be recycled in good cases and melted down in bad cases.
+           She's no mechanic, but she knows her way around a ship's innards.
+           Meanwhile, she covertly trains on a military-grade flight simulator
+           that's presented as an entertainment set in the backroom of a cantina.
+           She's never been in a functional ship, and sometimes loses faith.
 
 12 BBY  -- Hedala (14) is on a Fardi transport to ???.
         -- Naema (17) stows away on that transport.
