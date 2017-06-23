@@ -76,3 +76,23 @@ far as talking to drunk pilots and her own observations went.
 When the second patrol clambered past her house, she sighed, looked at the
 stars, hopeful and wishful both, and went to sleep.
 
+She woke up with the dawn, shook the sleep off her eyes and breakfast off her
+shelves, a quick trip to the fresher, a change of clothes. The same as the day
+before, the same every day, no seventh day fancy-dress for her, not since she
+was littler. She went to Empire Day each year, every year, as decreted, but wore
+the same plain clothes for the Emperor. There was no one to frown, anymore.
+
+She stepped onto the platform just as the transport arrived, same as ever
+before, always on time, which meant always three minutes late. The public lines
+used to run on time, but the delays were one of the ways the pilots rebelled.
+Just enough to be defiant, not enough to be noticed, and predictable enough as
+to not anger their passengers and endanger the bread they fed themselves with.
+
+Naema joins Juko for her morning shift, lunches in the shade among other
+coworkers, safer in a group. This week she believes she might one day escape.
+She still doesn't know to where, or when, or what she'll do once she's away
+(she's not hopeful enough to blindly believe whatever skills she picked up
+working here or at the furnace previously would be marketable elsewhere), but
+she believes.
+
+Working is dull, life is dangerous, but hope makes it all bearable.
