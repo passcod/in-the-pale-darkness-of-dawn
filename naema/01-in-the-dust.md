@@ -12,7 +12,11 @@ it had been a doubting day, if she'd convinced herself that she would always be
 stuck here, in this job, on this dirt ball, she'd have taken the small comfort
 and talked with Atali and Juko of the weather, the work, the co-workers, perhaps
 even giggled shyly when topics veered to one's or the other's sex life. 
- 
+
+[](TK: add self-practice of looking for exits, quick-memorising of faces -- new
+and regular -- and positions, cover space, weapons... while entering rooms /
+walking about.)
+
 But today she believed, so she walked, and she detoured through to the cantina,
 nodded in the direction of the bar, waved after a greeting by another regular,
 and passed into the backroom. There, she ignored the crokin tables, held her
