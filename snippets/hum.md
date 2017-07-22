@@ -1,3 +1,10 @@
+Rise, child, for your journey has but begun,  
+rise and tell me the colour of the sky,  
+rise and stand, always by me you shall be,  
+I will speak, I will guide, I will ensure.
+
+In the pale darkness of dawn,  
+rise, child, today and until done.
 ...
 Wanderer, traveler, trader, child
 look me in the eye and ne'er your head dip
