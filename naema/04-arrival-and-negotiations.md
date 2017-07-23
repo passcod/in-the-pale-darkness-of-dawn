@@ -202,12 +202,20 @@ everything on the HoloNet as soon as they could.
 Naema looked pensieve. “I know what refueling costs, and we’ll be fine. We’re
 keeping the ship, then?”
 
+At some point during the past few hours, Naema had started thinking in earnest
+of the both of them as a “we,” and not just as herself and an uninvited guest.
+It wasn’t companionship, it wasn’t partnership, but they had made a deal, and
+by its words they would be together for a while, at least. It made more sense to
+pool together resources and knowledge and plans, rather than merely travel near
+one another, duplicating the essentials to higher waste and risk. She did not
+trust Hedala, but she trusted that the younger girl had figured the same thing.
+
 “You were right, it’s our best bet. No ident, blaster damage, involved in
 criminal matters… we would have to sell it on the black market and get kriff
 all for it. Plus…" she hesitated. “It’s a reminder of home.”
 
 Naema hummed, but said nothing, before going back to taking her stuff out of a
-ventilation duct and into quarters she'd appropriated as her own.
+ventilation duct and into quarters she’d appropriated as her own.
 
 Hedala watched after her for a moment, then turned back to the pile of credits
 and stashed them into a box for safe-keeping. They'd need to open an account
@@ -215,10 +223,11 @@ somewhere and transfer everything as early as they could. She tried to think
 back to overheard conversations and dinners when she was too young to be
 considered a listen risk, racking her memories for the name of worlds that
 would be more amenable to opening accounts without a name. One of _Nar
-Shadda_'s stations, if they could find absolutely nothing else, and certainly
+Shadda_’s stations, if they could find absolutely nothing else, and certainly
 not on the surface, she knew that much.
 
-She sat back and thought on what she'd have to do.
+She sat back and surveyed her work, then frowned inward, concentrating on what
+she was about to do.
 
 “The hard part, now.” she called out to Naema. “Make plenty of noise!”
 
@@ -247,7 +256,7 @@ halfway panicked.
 Behind the closed cockpit door, the sound of a blaster started up. Naema.
 
 “Mayday, mayday, this is the _Zepirys_ calling from [][TK: planet name]. We’ve
-been boarded by pirates, I think they're—”
+been boarded by pirates, I think they’re—”
 
 A crash louder than the rest interrupted her, and she looked back at the door,
 genuinely afraid, before catching herself and turning back to the holorecorder
@@ -278,3 +287,19 @@ to do it.
 “You’ve got a change of clothes, right?”
 
 ‘Several,’ thought Hedala, but she simply nodded.
+
+She looked around uncertainly, then shrugged, turned around, and started taking
+off her dress right there and then. She reached to undo a button, and jumped
+slightly when Naema placed a hand on her back and started silently undoing the
+back closure. She felt a tingle go up her neck, and closed her eyes for a
+moment. The pressure disappeared and she straightened, removing the sleeves.
+Without turning around she folded the garment quickly and passed it over.
+She smiled, remembered that would not be seen, and thanked Naema for the help
+and the offer.
+
+With a simple “You’re welcome,” the older girl turned around and left, towards a
+fresher, and to give Hedala privacy. In the quiet that ensued, she sighed
+softly, then shivered from the cold and left as well, to her quarters and the
+veritable wardrobe she'd taken along with her.
+
+The ship sailed on in the maelström of hyperspace.
