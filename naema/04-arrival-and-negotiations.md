@@ -255,8 +255,8 @@ halfway panicked.
 
 Behind the closed cockpit door, the sound of a blaster started up. Naema.
 
-“Mayday, mayday, this is the _Zepirys_ calling from [][TK: planet name]. We’ve
-been boarded by pirates, I think they’re—”
+“Mayday, mayday, this is the _Zepirys_ calling from Rinn. We’ve been boarded by
+pirates, I think they’re—”
 
 A crash louder than the rest interrupted her, and she looked back at the door,
 genuinely afraid, before catching herself and turning back to the holorecorder
