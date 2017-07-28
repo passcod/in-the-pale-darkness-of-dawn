@@ -303,3 +303,22 @@ softly, then shivered from the cold and left as well, to her quarters and the
 veritable wardrobe she'd taken along with her.
 
 The ship sailed on in the maelström of hyperspace.
+
+[][TK ...?]
+
+Neither wanted to fall asleep before the other, or at all. They had negotiated,
+but it was early, and they could still leave the other in a shuttle and carry
+the same plan out one girl down.
+
+‘I'd never do that,’ thought Naema. 'I honour my word. But who knows what she
+would do.’
+
+‘I want to get out, so I need her,’ was thinking Hedala, ‘but she doesn't need
+me.’
+
+In the end, fatigue won out. Hedala was younger and not used to sleepless
+nights, so she went first. Naema was too tired to think, too tired to get up,
+and she slumbered only shortly after.
+
+When they awoke, the navigation computer was beeping at them, announcing one
+hour before the scheduled exit from hyperspace.
