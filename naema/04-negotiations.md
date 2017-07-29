@@ -1,6 +1,6 @@
-The girl was looking at the stars. “You know,” she said, leaning against a
-chair but not sitting in it, ”this is the first time I’ve been off-planet
-alone.”
+The girl was looking at the blurred stars. “You know,” she said, leaning
+against a chair but not sitting in it, ”this is the first time I’ve been
+off-planet alone.”
 
 Naema didn’t answer, didn't look away from where the crew lay unconscious,
 bound out of precaution rather than necessity. Some of them had fallen badly
@@ -121,8 +121,8 @@ she nodded, sat up a bit straighter, and wiped her eyes on her sleeve.
 “I have to call you _something_. And you’re younger.” She paused. “I _think_
 you're younger. You look younger.”
 
-“I think I am too. But, please don’t call me kid. It reminds me…” she trailed
-off.
+Hedala’s expression softened, slightly. “I think I am too. But, please don’t
+call me kid. It reminds me…” she trailed off.
 
 Oh. “Right. So.”
 
@@ -245,13 +245,13 @@ think she was really— gone. And after having argued against them to be able to
 go. It would cause them much pain, so much that she almost called it off
 several times.
 
-She picked up a blade, took a deep gulp of air, winced in preparation, and made
-a shallow cut across her left hand. It didn’t hurt as much as she had tought it
-would. Blood pooled in her palm, and she smeared it all over her face, wiping
-the rest on her sleeves and front. The dress would be ruined, she mused
-absently. She could feel the chill of the liquid evaporating on her face. She
-bit her lip, then widened her eyes and tried to look panicked. Hels, she _was_
-halfway panicked.
+She picked up a kitchen knife, took a deep gulp of air, winced in preparation,
+and made a shallow cut across her left hand. It didn’t hurt as much as she had
+tought it would. Blood pooled in her palm, and she smeared it all over her
+face, wiping the rest on her sleeves and front, finishing up by messing up her
+hair. The dress would be ruined, she mused absently. She could feel the chill
+of the liquid evaporating on her face. She bit her lip, then widened her eyes
+and tried to look panicked. Hels, she _was_ halfway panicked.
 
 Behind the closed cockpit door, the sound of a blaster started up. Naema.
 
@@ -281,8 +281,8 @@ Naema frowned, and then gestured.
 “Oh. Theatrics, y’know.” She looked down at her dress and scowled.
 
 Naema made a sound of understanding, then told her the blood wouldn’t stain if
-it was washed off right away. Then, as Hedala was looking unsure, she offered
-to do it.
+it was washed off right away, especially with a solvent. Then, as Hedala was
+looking unsure, she offered to do it.
 
 “You’ve got a change of clothes, right?”
 
@@ -290,12 +290,12 @@ to do it.
 
 She looked around uncertainly, then shrugged, turned around, and started taking
 off her dress right there and then. She reached to undo a button, and jumped
-slightly when Naema placed a hand on her back and started silently undoing the
-back closure. She felt a tingle go up her neck, and closed her eyes for a
+slightly when Naema placed a hand on her back and started silently unbuttoning
+the back closure. She felt a tingle go up her neck, and closed her eyes for a
 moment. The pressure disappeared and she straightened, removing the sleeves.
-Without turning around she folded the garment quickly and passed it over.
-She smiled, remembered that would not be seen, and thanked Naema for the help
-and the offer.
+Without turning around she folded the garment quickly and passed it over. She
+smiled, remembered that would not be seen, and thanked Naema for the help and
+the offer.
 
 With a simple “You’re welcome,” the older girl turned around and left, towards a
 fresher, and to give Hedala privacy. In the quiet that ensued, she sighed
@@ -303,22 +303,3 @@ softly, then shivered from the cold and left as well, to her quarters and the
 veritable wardrobe she'd taken along with her.
 
 The ship sailed on in the maelström of hyperspace.
-
-[][TK ...?]
-
-Neither wanted to fall asleep before the other, or at all. They had negotiated,
-but it was early, and they could still leave the other in a shuttle and carry
-the same plan out one girl down.
-
-‘I'd never do that,’ thought Naema. 'I honour my word. But who knows what she
-would do.’
-
-‘I want to get out, so I need her,’ was thinking Hedala, ‘but she doesn't need
-me.’
-
-In the end, fatigue won out. Hedala was younger and not used to sleepless
-nights, so she went first. Naema was too tired to think, too tired to get up,
-and she slumbered only shortly after.
-
-When they awoke, the navigation computer was beeping at them, announcing one
-hour before the scheduled exit from hyperspace.
