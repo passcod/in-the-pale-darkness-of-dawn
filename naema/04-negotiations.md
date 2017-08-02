@@ -256,7 +256,21 @@ and tried to look panicked. Hels, she _was_ halfway panicked.
 Behind the closed cockpit door, the sound of a blaster started up. Naema.
 
 “Mayday, mayday, this is the _Zepirys_ calling from Rinn. We’ve been boarded by
-pirates, I think they’re—”
+pirates, the _Crimson_—”
+
+She timed it to use the sound of a blast to garble the name she'd made up on the
+spot; pirates weren’t exactly known and registered, but it wouldn’t do to
+mention by accident a group that either _wasn’t_ a pirate group at all, or that
+no traces of existed.
+
+She continued, giving more invented details about their fictive boarders (an Inner
+Rim accent and a “what looks like” Mandalorian armor, “with red markings”). She
+also described a figure reminiscent of a doll she’d owned as a child, hoping her
+parents or at least her siblings would figure it out. She also included a name
+that translated, in Old Thabeskan, to “Safe”. That was all she dared hint; and
+in any case she thought she was running out of time.
+
+“I think they’re—”
 
 A crash louder than the rest interrupted her, and she looked back at the door,
 genuinely afraid, before catching herself and turning back to the holorecorder
