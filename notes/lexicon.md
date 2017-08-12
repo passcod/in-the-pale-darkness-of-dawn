@@ -20,6 +20,8 @@ mixed; that's because of the Empire's latent human-centrism and subtle sexism.
 The **Lothal Calendar** is the same in origin as the **Union Calendar**, with a
 Year Zero on the Treaty of Coruscant. However, while the Union had precise
 synchronised timekeeping because of their important naval industry of the time,
-Lothal relied solely on planetary time for about two millenia, which ended up
-skewing the calendar by about four centuries. **3277 LY** is around the same
-time as **3652 UY** which is around the same time as **0 ABY**.
+Lothal relied solely on planetary, non-relativistic time for about two millenia,
+which ended up skewing the calendar by about four centuries. **3277 LY** is
+around the same time as **3652 UY** which is around the same time as **0 ABY**.
+
+The “period when one is/was a **Padawan**” can be called a **Padawancy**.
