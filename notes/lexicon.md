@@ -25,3 +25,7 @@ which ended up skewing the calendar by about four centuries. **3277 LY** is
 around the same time as **3652 UY** which is around the same time as **0 ABY**.
 
 The “period when one is/was a **Padawan**” can be called a **Padawancy**.
+
+While a **travel port** is more suited to touristy / urban situations, a **space
+port** is the generic term for a facility where spaceships can land, depart, and
+generally be catered to.
