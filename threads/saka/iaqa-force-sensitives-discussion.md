@@ -1,3 +1,15 @@
+Iaqa had led her through a mess of stairs and passageways she wasn't sure she
+could follow back on her own, up to a wide and flat balcony, or roof maybe,
+that had cushions and mats arrayed out at random, overlooking a lush green
+landscape, hills, and a distant forest. They must be at the very edge of the
+city, something she hadn't realised when she'd been invited inside the
+building: the doorway was in a busy plaza, surrounded by other buildings tall
+enough that all else she had seen had been sky, air taxis, and taller
+buildings.
+
+They both sat down, and Saka drank in the view and breathed in the calm air.
+After a little while, she asked:
+
 “Where were you during the Hush?”
 
 “The Hush?”
