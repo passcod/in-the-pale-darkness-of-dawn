@@ -100,9 +100,12 @@ Iaqa continued to stare at her, but relented, and nodded.
 
 Saka held a hand up.
 
-“Let’s just stop, _both of us_, with the assumptions. And um, no. I’m not
-royalty. There hasn’t even _been_ royalty in the Union since before it was a
-Union.”
+“Let’s just stop, _both of us_, with the assumptions."
+
+She waited until Iaqa visibly settled, and he nodded with a sheepish smile.
+
+"Okay. And um, no. I’m not royalty. There hasn’t even _been_ royalty in the
+Union since before it was a Union.”
 
 “Union? Wait, nevermind that, you’ll explain about the astropolitics of your
 part of the Galaxy later. Let’s start by figuring out this, first. So. Only
@@ -113,15 +116,16 @@ time to notice. So, how can you not be a Jedi?”
 
 “Isn’t that the same thing?”
 
-“No. The Jedi is, or was, a group and philosophy and organisation of
+“No. The Jedi is… or was… a _group_ and philosophy and organisation _of_
 Force-sensitives. But there’s many others, although I don’t know if the names
 or groups who I was told lived in Rim are still the same now. The Witches of
 Dathomir. The Jedaa’i of Idar. The Baran Do sages. The paladins. The various
-Walker families. Naha, er... something. The Beatific Siblings. The Guardians of
-the Whills. The Sith, of course. And the Jedi of Ossus. That’s only the few I
-remember from lessons, though. That’s only organised groups, though. Most of us
-are unaffiliated, with only basic training to not be overwhelmed and respect
-privacy, and that’s what I find disturbing about your story.”
+Walker families. The Tailortails. I think. Naha, er... something. The Beatific
+Siblings. The Guardians of the Whills. The Sith, of course. And the Jedi of
+Ossus. That’s only the few I remember from lessons, though. That’s only
+organised groups, though. Most of us are unaffiliated, with only basic training
+to not be overwhelmed and respect privacy, and that’s what I find disturbing
+about your story.”
 
 “Because we don’t have any Force-sensitives.” He was looking troubled now. “You
 didn’t _get the news_ like we did, your… entire population of Force-sensitives
@@ -149,8 +153,9 @@ million Force-sensitives._ “Stars” he breathed. Then something occurred to h
 “_Your_ planet? How many are there on _other_ planets?”
 
 “Well, the total population of the Union is 217 billion 300 million… something.
-It’s been a long time since I was at school. And the percentage of
-Force-sensitives is roughly the same. Which brings me to my next concern.”
+It’s been a long time since I was at school. It's probably increased since
+then, too. And the percentage of Force-sensitives is roughly the same. Which
+brings me to my next concern.”
 
 The numbers had ceased to make sense to Iaqa, out of shock or due to their
 size, but he forced himself to make the calculation anyway. Over 210 million
