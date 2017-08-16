@@ -39,4 +39,29 @@ data. A flexiplast, or **plast**, **flexi**, is a soft, flexible, rollable,
 foldable, sheet of “smart material” that holds a document. While flexis are
 usable on their own, attaching/inserting (depending on the model) to a flexipad
 enhances capabilities and enables easier input/transfer as well as more powerful
-editing/analysis tools.
+editing/analysis tools. **Flimsi** is a synonym for **flexi**; usage of one or
+the other depends on culture and trend.
+
+A **datatape** may be both a more ancient (by millenia) version of datasticks,
+or more currently a highly durable yet cheap archival tool. While a datapad,
+datastick, or flexi may hold information for several decades without
+interaction, datatapes may keep information safe for centuries, with some
+datatapes being several millenia old. Datatapes have an absolute capacity of a
+few **exanodes**, but use high density erasure coding to guard against random
+corruption by space radiation and age.
+
+Force-users' **holocrons** are also archival tools, improved by their Force
+interface, and reinforced by the Force, capable of surviving nearly
+indefinitely, with the oldest recorded being around 10,000 years old. However,
+they require the Force to be accessed and created, so datatapes are preferred
+for general usage.
+
+Datatapes are also highly compatible and cheap to make with standard tools,
+although manufacturing the durable versions needs specialised equipment; yet
+still none that cannot be found in any manufacturing sector in the Galaxy.
+
+Meals are varied by culture, but for most humans and many cultures following the
+humanocentric model, there are three: **breakfast**, **mid-meal**, and
+**last-meal**. **Tea** or **caf** may be had at any point day or night, but
+while they are often served along with breakfast, it is rarer to see them
+consumed for the other two meals.
