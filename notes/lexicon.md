@@ -65,3 +65,97 @@ humanocentric model, there are three: **breakfast**, **mid-meal**, and
 **last-meal**. **Tea** or **caf** may be had at any point day or night, but
 while they are often served along with breakfast, it is rarer to see them
 consumed for the other two meals.
+
+**Week** and **tenday** are equivalent. A week is ten days in most cultures and
+planets around the Galaxy. A **Standard hour** and its subdivisions in minutes
+and seconds is a standard duration across the entire Galaxy. However, a **day**
+might be shorter or longer depending on the particular planet and its cycles. In
+space and hypertravel, a **Galactic Standard Day** is used, modelled around the
+Coruscant day of 24 hours. Months are three weeks long. Years are twelve months.
+A **tenyear** or **decade** is a period of ten years. A **century** is a period
+of a hundred years. A **millenium**, plural millenia, is a thousand years. A
+**tenmillenium** is ten thousand years and generally used by historians to mean
+the general ten-thousand-years-long period _N_ tenmillenia before current era.
+
+Months within years, weeks within months, days within weeks, and hours within
+days do not generally have names, and are instead referred to by their one-based
+ordinal index, and sometimes the ordinal and time noun are attached as a single
+word, e.g. the fifteenth hour, the third month, the fifth day or fifthday. Weeks
+within months are often attached to their months-within-years representation
+just to avoid ambiguity, e.g the second week of this month, or the first week of
+tenthmonth.
+
+By convention, a single-word time that's not accompanied by distinguishing
+context applies to the _next_ occuring period, even if the designation may refer
+to the period occuring _right now_. E.g. "tenthday" when said on the fifthday
+refers to "five days hence", but "tenthday" when said on a tenthday refers to
+"ten days hence".
+
+## Force organisations
+
+**Jedi**, or **The Galactic Order of the Jedi**, a large organisation with many
+Temples on many planets, with a long history as independent ambassadors and
+Justices of the Peace for the Galaxy, as well as targeted conflict with the
+**Sith** organisation. They operate on a strict philosophy of stoicly
+controlling their emotions, giving them entirely up to the Force, and only using
+the Force by holding themselves within it and letting their actions be guided.
+They were almost entirely wiped out during the Galactic Empire. They started
+from a Jeda'ii temple on Ossus, and are sometimes called the **Jedi of Ossus**.
+
+**Jeda'ii**, a spiritual group that is the ancestor of the Jedi, started from
+origins unknown but probably the planet **Achk-To** or **Jedha** a tenmillenium
+ago.
+
+**The Jedaa'i of Idar**, a splinter group of Jedi residing on or around **Idar**
+who tried to get back to the Jeda'ii philosophy rather than the Jedi's.
+
+**Guardian of the Whills**, a group of monks mostly residing within the **Holy
+City** on Jedha, having mostly a passive relationship to the Force, as well as
+serving as spiritual, moral, and moderative guides to the local population. They
+were self-designed protectors of **Ancient Temple of the Kyber**, a repository
+of knowledge and crystals and, in times past, an access point to the Kyber mines
+under the surface of Jedha.
+
+**Shamans of the Whills**, a disparate group of mostly nomadic or hermit
+individuals who researched the Force through a lifelong study of their own
+connection to it, and made themselves the agents of the Force itself.
+
+**Ancient Order of the Whills**, a name for the perceived consciousness of the
+Force used by many societies of Force users around the second tenmillenium BBY.
+
+**Sith** is an organisation of Dark Force users, using their Force connection
+exclusively by channeling emotions, often to destructive ends. They are the
+self-prescribed and Jedi-prescribed enemies of Light, often trying to enslave
+those weaker than them. **Sith** was also an ancient Force-sensitive species
+that was enslaved and genetically re-engineered by the precursors of the Sith
+organisation.
+
+**Talorta'ii** is a reptilian-avian Force-sensitive species with long lifespans.
+While their connection to the Force is guaranteed by their biology, they make
+use of it naturally, and rarely consciously. Their presence in the Force is an
+extremely private matter in their culture, and they do not train it and often do
+not even acknowledge it to others, including members of their own family. Their
+homeworld seceded from the so-called Known Galaxy around the Treaty of Coruscant
+but they chose to isolate themselves completely instead of joining with other
+seceded parties. Knowledge about them remains from archives.
+
+The **Witches of Dathomir**, also known as **Nightsisters** and
+**Nightbrothers**, a highly hierarchic dual society, completely segregated by
+binary gender, operating mostly around emotional Force connections on the planet
+**Dathomir**. They held themselves independent in the Jedi-Sith conflicts, but
+not neutral.
+
+**The Baran Do Sages**.
+
+**The Paladins**.
+
+**The Walker families**.
+
+**Isde Naha Clan of the First Light**, one of the many nomadic clans of Isde
+Naha. Unlike the **Clan of the Toribota**, they are Force-sensitive. Both clans
+(and many others from Isde Naha) look for the system of the "First Light", the
+first star glimpsed by their ancestors. The Isde Naha archives indicate that
+around that star the ancient Naha people felt a very strong Force presence that
+prompted them to develop space travel.
+
+**The Beatific Siblings**.
