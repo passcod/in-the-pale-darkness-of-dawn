@@ -6,12 +6,14 @@ asleep. But that was only a technical issue: the real problem with that thought
 was how they felt about it.
 
 Naema held an ingrained respect for the Fardi, passed from her parents and
-culture, even though that warred with her distrust and disregard of authority.
-She also trusted people from her own planet marginally more than anyone else.
-More importantly, though, while she was aware that honour and fairness were
-sometimes not beneficial when dealing with others, with people who would not
-hold themselves to that, or who would exploit that… she wished to hold
-_herself_ to a higher standard. She would keep her word.
+culture, even though that warred with her distrust and disregard of authority
+borne from years living under the Empire. She also trusted people from her own
+planet marginally more than anyone else. More importantly, though, while she
+was aware that honour and fairness were sometimes (_most of the time, in this
+wider wilder world_, she reminded herself) not… beneficial when dealing with
+others, with beings who would not hold themselves to such a standard, or who
+would exploit her own, even, if given the chance… she wished to hold _herself_
+to a higher standard. She would keep her word.
 
 That did not mean Hedala would, though.
 
@@ -34,9 +36,9 @@ announcing imminent hyperspace exit and their arrival to Rinn.
 
 "Hnnnnh," said Hedala, very eloquently. "Five more minutes!" she yelled out.
 
-In her cabin, Naema wished she could agree, but was more used to wake up early
-in the morning, and was somewhat more alert and awake. She walked out to the
-fresher and splashed some water on her face to properly wake up. Then she
+In her cabin, Naema wished she could agree, but was more used to waking up
+early in the morning, and was somewhat more alert and awake. She walked out to
+the fresher and splashed some water on her face to properly wake up. Then she
 registered what the beeping must mean.
 
 "Aaaah! We're there! Gotta prepare!" she whirled onto the piloting deck, stepped
@@ -111,14 +113,14 @@ in the viewport, surrounded by pinpricks of light and a much brighter one off to
 the side. _Rinn_.
 
 Naema took a moment to appreciate where she was, where she _actually_ was, not
-in a sim, but in real space, approaching a different planet from the one she'd
+in a sim, but in real space, approaching a different planet from the one she’d
 lived on forever.
 
 She had grown up with the knowledge that interplanetary travel was common, but
 her first time faced with the evidence, she was still floored by the wonder.
 
 Then she shook herself, and flicked the sublights on, pushing them towards this
-new world they wouldn't even really discover. She felt a tinge of disappointment
+new world they wouldn’t even really discover. She felt a tinge of disappointment
 at that.
 
 She set the autopilot on, then stepped out back again to see how Hedala was
@@ -128,18 +130,32 @@ identify somewhere that was on land, not inhabited, but close enough to a
 population center that a tired group of five humans, a Togruta, and a
 Dathomirian could reach it on foot (if necessary).
 
-"It's only been fifteen minutes," answered Hedala after being asked how she was.
+“It’s only been fifteen minutes,” answered Hedala after being asked how she was.
 
 Naema blinked, staring at the chrono, which said exactly that. It had felt a lot
 longer.
 
-"Huh. Well, computer says we'll be close enough to get to low orbit in about
+“Huh. Well, computer says we’ll be close enough to get to low orbit in about
 five. We should have the Galactic charts up and accurate now, so if you want to
-pick the system we're going to next…"
+pick the system we’re going to next…”
 
-Hadala smiled, and explained she had already been researching that: "We'll want
+Hadala smiled, and explained she had already been researching that: “We’ll want
 a place that can give us banking facilities with no questions asked, and
-probably also a spaceport that we can use to put down and change the ship's
-ident and scrape the name off. There's a few that would do…"
+probably also a spaceport that we can use to put down and change the ship’s
+ident and scrape the name off. There’s a few that would do…”
 
+In the end, they picked _Kubindi_, a nearby financial safe-haven (so banking
+would not be a problem) that was on a trade route (so starship facilities would
+be available), sufficiently close from their current position (so the travel
+would be easy) and not actually inside Hutt Space (for rather obvious reasons).
 
+It _had_ been the first place Hedala had presented, but Naema had wanted to
+know everything about every choice, so she could be sure of the choice by
+herself, and not just rely on the younger girl she didn't yet trust. ‘Yet?’ she
+caught herself thinking. ‘Correction: I don’t even know if I should trust her
+at all, ever.’
+
+She'd stepped back to her place, kept on eye on their progress towards low
+orbit, and flicked through the scan results. Two locations looked promising,
+and she picked one at random, then got to work punching _Kubindi_'s coordinates
+in the hyperspace navigator so it could get a start on calculating the route.
