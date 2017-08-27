@@ -179,7 +179,7 @@ they hunted Jedi, and they lasered cities, but they didn’t kill hundreds of
 billions. Besides, the Jedi Order was only, what, a few tens of thousand
 strong? This is.”
 
-“Impossible?”
+“Impossible?” she asked wryly.
 
 “Yeah! No. No, it’s clearly possible. I trust you. But I can’t find an
 explanation for it. I wonder how far back it goes. Must have been gradual,
@@ -191,7 +191,7 @@ regime there had been.”
 
 “The Treaty of Coruscant.”
 
-“That’s when we separated from the Second Republic.”
+“That’s when we separated from the… well, the Second Republic.”
 
 “Second?”
 
@@ -200,16 +200,16 @@ regime there had been.”
 Iaqa laughed. “You have a point. But why Second? I thought that would be the
 First.”
 
-“Look, it’s been twenty-five years since I was at school. There was a First, it
-was more than ten millennia ago, I don’t really remember more. Then Second
-Republic, then the Sith War, then the Third Republic, then the Empire, and now
-the Fourth Republic. We rejected the Treaty and kriffed off to our worlds
-beyond the plasma winds where the Sith couldn’t reach. Which might be the
-answer, actually.”
+“Look, it’s been twenty-five years since I was at school. First Republic, then
+Sith War, then Treaty of Coruscant, then Second Republic, then Sith War, then
+Third Republic, then the Empire — also a Sith thing, and now the Fourth
+Republic. We rejected the Treaty and kriffed off to our worlds beyond the
+plasma winds where the Sith couldn’t reach. Which might be the answer,
+actually.”
 
 “You mean, after the Treaty, the Sith somehow found a way to reduce the rate
 Force-sensitives are born, and have been at it for the last three and a half
-millennia?”
+millennia?” he sounded a bit hysterical.
 
 “I mean, that’s one hypothesis. Could be something else. Whatever the reason,
 there should be way more Force-sensitives, and way more Force-_users_, in the
@@ -218,16 +218,28 @@ is going to happen? How do you find habitable planets? How do you judge beings
 in courts of law? Who do you consult to find out if pregnancies are viable? How
 do you find lost friends and family? How do you _live_?”
 
+Okay, she sounded a bit hysterical too.
+
 “Force-sensitives do all those things?”
 
 “_Yes!_ Of course! We have to work, too. Why not use our innate skills?”
 
+Iaqa made a face like it was the first time he’d thought of that. Which,
+considering he didn’t know Force-sensitives were a common thing until five
+minutes ago, is understandable. It didn’t help Saka’s feelings of despair,
+though.
+
 “The Jedi, our Jedi, were just peacekeepers. And not very good ones at that,
-there were conflicts all the time.” He thought for a moment. “I suppose if they
-were carrying all these duties and they found their numbers diminishing,
-although they couldn’t tell they were because it was so slow, they would slowly
-abandon what they saw as the less critical roles and focus on the most
-important. And peacekeeping sounds pretty important.”
+there were conflicts all the time. From what I heard.”
+
+He thought for a moment.
+
+“I suppose if they were carrying all these duties and they found their numbers
+diminishing, although they couldn’t tell they were because it was so slow, they
+would slowly abandon what they saw as the less critical roles and focus on the
+most important. And peacekeeping sounds pretty important.”
+
+Saka was having trouble finding words.
 
 “I’m just. I can’t imagine living a life as a non-sensitive without all these
 things. And I’m really sad that dozens or maybe hundreds of generations didn’t
@@ -235,11 +247,11 @@ get to experience all that. A marriage officiated by a Force-sensitive is
 _beautiful_. Not all marriages are, but those that are… they’re some of the
 most sacred occasions I’ve ever been part of.”
 
-“You officiated marriages?”
+“You officiated marriages?” he was awed.
 
 “Ah, not me personally, but I witnessed two. Well, three if you count the time
 I was six and snuck into one because I was attracted to the congregation of
-Force.”
+Force.” she added with a quick grin.
 
 Iaqa smiled, a real smile this time, that reached his eyes, but Saka was
 wistful.
@@ -256,17 +268,28 @@ asked:
 
 “One last thing. You said years of therapy.”
 
+Saka closed her eyes and breathed out slowly.
+
 “Let me guess: nobody offered therapy to everyone.”
+
+Iaqa stared.
 
 “Well, no. How would that even work?”
 
 “Not everyone took the offer.”
 
-“You mean? Your government actually did that? Oh, of course. They just had a
-million people directly affected, just on the one planet, hundreds of millions
-in the… Union, was it?” Saka nodded. “And probably a lot of non-sensitives who
-witnessed the events, and all the healers who were on the scene and treated
-you, and the parents and children and siblings and friends and all the rest.”
+His eyes widened, and it would have been comical if the context wasn't utterly
+awful.
+
+“You mean? Your government actually did that? Oh, of course.”
+
+He seemed to have figured it out, but Saka let him continue.
+
+“They just had a million people directly affected, just on the one planet,
+hundreds of millions in the… Union, was it?” Saka nodded. “And probably a lot
+of non-sensitives who witnessed the events, and all the healers who were on the
+scene and treated you, and the parents and children and siblings and friends
+and all the rest.”
 
 “Basically, yes. Also, not everyone reacted the same way. I told you mine, and
 Alderaan was worse, but I was young and I’m only moderately sensitive. Some
@@ -295,11 +318,20 @@ started dropping _before_ the news of Jedha came.”
 
 “Or who are hiding.”
 
+She nodded, acknowledging the possibility, and continued.
+
 “Or who are hiding, true. But still, it could mean there’s a lot more out there
 than is reported, or that the Jedi knew about.”
 
-“I really have to tell all this to _someone_.” Iaqa got up. “Want to come
-with?”
+Iaqa straightened from where he was sitting.
+
+“I really have to tell all this to _someone_.”
+
+He got up, and offered a hand.
+
+“Want to come with?”
+
+She looked at him for a moment before accepting his help.
 
 “Where are we going? Who are you going to tell?”
 
