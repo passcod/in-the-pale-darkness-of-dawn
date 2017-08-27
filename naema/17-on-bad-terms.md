@@ -7,7 +7,7 @@ feels her features harden just before her companion’s shout:
 
 “Thabeska is not free, Leia!”
 
-“I know, I _know_, but it’s a beginning, we needed peace--"
+“I know, I _know_, but it’s a beginning, we needed peace—"
 
 "The Republic,” Hedala sneers, “is at peace. Our _home_ is not.”
 
@@ -24,7 +24,7 @@ the Republic.
 Hedala glares, before turning her back without a goodbye, and stomping back
 through to the mess. Naema looks at Leia for a long moment, then finishes:
 
-“We believe in the republic, Organa. We fought for it. Just-- not yours.”
+“We believe in the republic, Organa. We fought for it. Just— not yours.”
 
 Later, after saying their goodbyes and exchanging personal radio details, on
 the way to their ship, to fly out of there, they find Luke watching them from
@@ -71,7 +71,7 @@ She nods, yet keeps mum, not trusting herself to speak more.
 He bows again, not-smiles again, and reaches into a pocket. He hands out a few
 chips: “Ident, pay, and keys. Call if you need, come by for dinner sometime.”
 
-He steps out of the way, offers a hnad to shake.
+He steps out of the way, offers a hand to shake.
 
 “Good luck, Captain. May the Force be with you.”
 
