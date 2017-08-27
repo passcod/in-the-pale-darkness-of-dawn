@@ -157,5 +157,93 @@ at all, ever.’
 
 She'd stepped back to her place, kept on eye on their progress towards low
 orbit, and flicked through the scan results. Two locations looked promising,
-and she picked one at random, then got to work punching _Kubindi_'s coordinates
+so she picked one at random, then got to work punching _Kubindi_'s coordinates
 in the hyperspace navigator so it could get a start on calculating the route.
+
+She checked the fuel cell levels again, a healthy 55%, not enough for a
+Galaxy-spanning jump, but enough for, in her estimation, a jump to the Core and
+three or four short jumps similar to the one they'd just come out of.
+
+She'd have to calibrate her estimations as they traveled, or get an astromech
+droid that could do that for her, but she didn't think that would be anywhere
+near the foreseeable future, even with the unexpected windfall from looting the
+crew's pockets.
+
+The navicomp beeped again: they were getting within range of the drop-off point.
+Naema fingered her straps, then gripped the yoke, eased the repulsors, and
+increased the sublights, absent-mindedly flicking on the ‘landing’ crew
+indicator, letting _Rinn_'s gravity pull them down to the surface.
+
+Her simulator didn't have _Rinn_ in its memory banks, but it did have _Hoth_,
+and they looked very similar, even though _Hoth_ had more green — forests — on
+its surface. As far as she could see, _Rinn_ was just ice, unless the local
+flora had a pale or clear colouring instead.
+
+They wouldn't be making a landing, so the flora or terrain didn't matter, but
+the approach to a highly reflective surface and the atmosphere behaviour for the
+cold climate did. She flicked on the shields at full strength automatically
+because that was how you had to do it on _Hoth_: atmo was very dense very fast…
+then she remembered and called out to Hedala for the actual data.
+
+“0.8 standard, whatever that means,” was the yelled response. So, not full
+shields. She thanked the girl while doing the adjustment.
+
+When the ship entered atmo, the vibrations surprised her, but systems looked
+nominal. No flashing lights. ‘Whoa, this moves much more than the sim.’
+
+“Hey, is this shaking normal?!”
+
+…or not. She looked around frantically, then systematically ran through each
+dashboard zone. Repulsors, nope. Air brakes, off. Sublights, good. Dampeners,
+off— ah!
+
+“Oops!” She quickly turned them on, and the shaking stopped.
+
+“What do you mean, ‘Oops’?!”
+
+She ignored the indignant Fardi but winced, even though no one could see.
+
+The descent from that point was smooth. At around two kilometres altitude, she
+leveled off, did a quick scan to check off her visuals, then set the autopilot
+to maintain altitude and bearing at the lowest speed they could without dropping
+off. Then she stepped out.
+
+She found Hedala huddled into a seat, clutching a datapad, flimsi scattered all
+over the room.
+
+“We're stable, now.” she assured.
+
+“You're a terrible pilot.” Hedala glared.
+
+_Okay, that was a bit harsh._ “Look, I've not had much practice.”
+
+The younger girl rolled her eyes and stood up gingerly, as if testing the truth
+of her words.
+
+“We're there, then?”
+
+Yeah. They were there. Last chance to back away.
+
+Naema started to speak, but Hedala headed her off:
+
+“No, I haven't changed my mind. Let's do this.”
+
+She turned and walked away into the ship.
+
+‘Okay then.’
+
+Naema shuffled across the room, picking up the scattered flimsi to tidy up.
+
+The ship shuddered as the escape pods launched. She released a breath and closed
+her eyes. No going back. She trembled at the thought of freedom, and at the
+thought of making do on her own. ‘Mum, dad. I'm not even sure what you would
+think of all that.’ Her parents had lived all their lives on Thabeska, she knew.
+‘I'm going to see the stars.’
+
+Half an hour later, fake recordings transmitted, ident chip removed, and safely
+out of atmo, the _Epsilon-class_ cargo transport previously known as _Zepirys_
+vanished into hyperspace, en route to _Kubindi_.
+
+- - - - -
+
+//
