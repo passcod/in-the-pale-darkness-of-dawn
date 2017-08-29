@@ -100,3 +100,48 @@ working here or at the furnace previously would be marketable elsewhere), but
 she believes.
 
 Working is dull, life is dangerous, but hope makes it all bearable.
+
+* * *
+
+Patra Fardi looked up from his paperwork. Over the last four years, more and
+more of the family business had needed to either be replaced by legal ventures
+or hidden under approved smuggling. The Empire had discarded a lot of Republic
+regulation, but one could not mistake the relaxing of laws for authorisation to
+profit: instead the rules were established by the Imperial command on-planet
+and within each jurisdiction, in a complex bureaucracy reft with egos and power
+struggles, where what was allowed and what was tolerated could shift briskly
+depending on who had most control or often, who was visiting the locality.
+
+Record-keeping was now of the utmost importance. It had to be done
+meticulously, with every movement and every transfer, every sale, every hire,
+registered and justified and filed in triplicate in several secure places.
+Raids and controls by Imperials, often accompanied by Stormtroopers, were
+frequent, even with the benediction of the local figurehead. Anything out of
+place, and he would have to spend days helping skeptical officers to go through
+months or years of business backlogs.
+
+It was exhausting. It made running the Family smuggling operations harder than
+ever, and harder every year, almost getting impossible. But Patra would not
+give up. He had promised his Da, all these years ago, not to give up the family
+business, and not to give up the Family's place on Thabeska. The latter, Patra
+thought he had already failed. The Empire was too cruel, too strict, too
+unforgiving. Bribes didn't work anymore, and helping Thabeskan civilians and
+industries was seen as interfering with local Imperial command. The Thabeskan
+people suffered, and all he could do while subjected to the regime's oversight
+was keep away other criminal enterprises.
+
+There was no sentient trafficking on Thabeska. Only Empire-stamped spice passed
+through, and it passed through them, and none of it stopped here. Gambling he
+could not control, but that was one area the Empire did not tolerate either.
+Prostitution had long been legal, a holdover from their Nabooan ancient
+history, and its illegal aspects were, if present, at least thankfully very
+rare. Extortion was a problem, but not technically of the criminal variety —
+when the government itself extorts its citizens, it does not appreciate
+competition.
+
+What remained was the slicing industry, which nobody was foolish enough to try
+to stop, and violent organised crime, what one of his children called the seven
+asses: assassination, assault, assailing, assizing, asset recovery, and
+Assegai, the local arms trade.
+
+[][TK: talk about teaching his kids, the flight training that was diminishing due to the empire's disapproval, the interest the Clan's youngests (a son and a niece) were showing for assisting with the gestion rather than the couriering. His son being prepared as the Family heir. Hedala's budding intuition with venture planning.]
