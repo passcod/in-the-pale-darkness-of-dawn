@@ -1,6 +1,7 @@
 # vim: tw=80
 
-A heavy coat is generally called a **parka**.
+A heavy coat is generally called a **parka**. A lighter, less shapey one can be
+a **poncho**.
 
 While **fucking** is relatively commonstance, **kriffing** or other
 similar-sounding paranyms are much more frequent.
@@ -90,6 +91,13 @@ context applies to the _next_ occuring period, even if the designation may refer
 to the period occuring _right now_. E.g. "tenthday" when said on the fifthday
 refers to "five days hence", but "tenthday" when said on a tenthday refers to
 "ten days hence".
+
+There are no _aliens_ in the Galaxy. Get that word out of the vocabulary. This
+is for a similar reason there are no _extra-terrestrials_. In a Galaxy with tens
+of thousands of years of multi-sentient-species cohabitation, the word "alien"
+loses its meaning of "not human". Indeed, the most common way to say "alien" in
+the Galaxy would be **non-human**, although of course that only makes sense in
+some humanocentric contexts.
 
 ## Force organisations
 
