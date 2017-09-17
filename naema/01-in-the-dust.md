@@ -20,8 +20,52 @@ walking about.)
 But today she believed, so she walked, and she detoured through to the cantina,
 nodded in the direction of the bar, waved after a greeting by another regular,
 and passed into the backroom. There, she ignored the crokin tables, held her
-breath through the haze of spice vapour, and headed to a little dark room. As
-she pulled open the door, a Mon Calamari with his skin scarred from being
+breath through the haze of spice vapour, and headed to a little dark room.
+
+Walking there, she glanced at the exits, remembered every hiding place she'd
+figured out, and used her swerving around a table in her path to sweep the
+entire room and quickly estimate the number of people in the room, their
+species, how they were dressed, what she thought that said about them. There
+was no risk here, but it was practice. Always practice. Get anywhere new,
+anywhere that might have changed: observe, gather information, do so quickly,
+do so discreetly.
+
+She admitted to herself that she might have cribbed a lot of those habits from
+holodramas, but she'd tried to do her diligence in looking up — ever so
+carefully through the controlled and most certainly spied upon access to the
+Holonet she had — actual information and techniques. At least to eliminate the
+very wrong.
+
+An obvious source of good technique was Fardi-affiliated people. They higher
+they were, the more experienced… but also the harder to watch and learn from,
+in consequence. And she wasn't about to approach any of them directly, even at
+lower levels. The Galaxy was Imperial, at the moment, and in any case Thabeska
+was in the Outer Rim. Trust was nuanced and tiered, and trust in strangers
+wasn't very high up on the list.
+
+Another obvious source were the stormtroopers. Despite having a perennial
+reputation for being very bad shots, and generally bad at everything (she
+suspected a lot of that was government propaganda designed to lure potential
+antagonists in a false sense of security, but she also had never been very
+close to a firefight involving stormtroopers — or any firefight for this
+matter), troopers were trained. They'd all gone several years in the Academy,
+and there they were presumably taught all kinds of things she'd have loved to
+know in a standardised manner.
+
+She'd briefly considered joining the Academy. But that was _not_ happening. So
+instead she took to observing its graduates, which doubled as stealth and
+patience and sight-taking practice all in one. There weren't that many troopers
+on Thabeska, she knew from holos and the news, but it still felt like a lot.
+You never really got used to it. Nobody did, as much as they pretended, if only
+to themselves. Conversations dimmed, eyes were cast down, lekku were relaxed,
+nerves were tensed.
+
+It comforted her, to see that despite the Empire being a reality for a third of
+her life now, it wasn't completely normalised. [][TK continue there]
+
+
+
+As she pulled open the door, a Mon Calamari with his skin scarred from being
 desicated, a consequence of living on a planet where water was at a premium,
 according to his stories, leaned out and sniffed at the air, grimacing and
 mumbling about storms. He noticed her and showed himself out, letting her have a
