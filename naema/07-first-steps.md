@@ -16,7 +16,7 @@ surprised and cautious Hedala in the eyes, and explained.
 "We've got to trust each other at least the bare minimum. Look. I'm not going to
 leave you behind. I gave my word, and also you're useful."
 
-The girl stared a bit, hunched over, then let out a tight breath in saccades.
+The girl stared a bit, hunched over, then let out her exhaustion in saccades.
 When she peeked back up, she had a hint of a smile, timid.
 
 Hedala placed her hands flat on the table, remembering the traditions her Uncle
@@ -32,7 +32,7 @@ Naema answered with a nod, then stuck a hand out across the table.
 
 "To a… business partnership."
 
-Hedala blinked, but took her hand, and repeated the words.
+Hedala blinked, but took her hand.
 
 They had struck a deal.
 
