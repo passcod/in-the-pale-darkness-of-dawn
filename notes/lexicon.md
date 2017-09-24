@@ -167,3 +167,17 @@ around that star the ancient Naha people felt a very strong Force presence that
 prompted them to develop space travel.
 
 **The Beatific Siblings**.
+
+## Ancient lexicon
+
+**Padawhane**, with _wh_ pronounced like an exhalted _f_, and all vowels
+pronounced (pah-dah-fah-ne, not pah-duh-fain), an ancient Tatooi term for
+“student”. Eventually made its way to Force organisations and then appropriated
+by the Jedi Order or one of its antecedents as **Padawan**. Was originally for
+all and any student, not just Force-sensitives, but the Ancient Arkanii
+(Tatooine is an Arkanii-sector world) taught all students in the knowledge and
+their traditions of the Force, regardless of whether they could actively use it.
+
+**Matari**, an Ancient Nahan word for "teacher". In the broader Galaxy, the
+name of a particular half-staff form that was taught to Jeda'ii by a nomadic
+martial arts school. Later evolved into the **Matachi** lightsaber form.
