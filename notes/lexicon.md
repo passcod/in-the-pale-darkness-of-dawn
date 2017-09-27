@@ -175,9 +175,15 @@ pronounced (pah-dah-fah-ne, not pah-duh-fain), an ancient Tatooi term for
 “student”. Eventually made its way to Force organisations and then appropriated
 by the Jedi Order or one of its antecedents as **Padawan**. Was originally for
 all and any student, not just Force-sensitives, but the Ancient Arkanii
-(Tatooine is an Arkanii-sector world) taught all students in the knowledge and
+(Tatooine is an Arkanis-sector world) taught all students in the knowledge and
 their traditions of the Force, regardless of whether they could actively use it.
 
 **Matari**, an Ancient Nahan word for "teacher". In the broader Galaxy, the
 name of a particular half-staff form that was taught to Jeda'ii by a nomadic
 martial arts school. Later evolved into the **Matachi** lightsaber form.
+
+**The three Walks of the Moon, the three Wells of the Sun, and the Seventh Whill,
+all encompassing.** Older than history, a name or a myth about the seven aspects
+of the Force. The Moon, Sun, and Void all feature in various stories and
+tales of the nomadic people of the Galaxy, reaching back tenmillenia through the
+unbroken chain of oral traditions.

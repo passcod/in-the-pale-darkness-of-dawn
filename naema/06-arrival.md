@@ -1,23 +1,45 @@
-Neither had wanted to fall asleep before the other, or at all. They had talked,
-they had agreed, but both felt it was too early for trust, and they could still
-leave the other in a shuttle and carry the same plan out one girl down. The
-issue would be subduing the other, which would be much easier if that one was
-asleep. But that was only a technical issue: the real problem with that thought
-was how they felt about it.
+Naema had built her entire life around two things: surviving, and respecting
+her parents' memory. Escaping Thabeska, being free of the Empire, that was all
+a part of surviving. She had survived alone. She had planned alone. She had
+trained alone. She would have escaped alone were it not for Naema finding her.
+She was alone because no one was trustworthy, and everyone would leave. This
+was the Empire. This was reality.
 
-Naema held an ingrained respect for the Fardi, passed from her parents and
-culture, even though that warred with her distrust and disregard of authority
-borne from years living under the Empire. She also trusted people from her own
-planet marginally more than anyone else. More importantly, though, while she
-was aware that honour and fairness were sometimes (_most of the time, in this
-wider wilder world_, she reminded herself) not… beneficial when dealing with
-others, with beings who would not hold themselves to such a standard, or who
-would exploit her own, even, if given the chance… she wished to hold _herself_
-to a higher standard. She would keep her word.
+Her parents... her parents had believed in Thabeska. They had told her stories
+of the Fardi, of the Daughter of Water and her adventures in the primordial
+jungle. When she was younger, she had thought "jungle" was a part of Thabeska
+that had green sand, green rocks, green cliffs, everything green. Child-Naema
+could not imagine anything else than the desert. Water was precious, and
+therefore so was the Daughter of Water, and the Daughter of Water was Fardi, so
+the Fardi were precious, as well. The Fardi cared for the people of Thabeska,
+just like the Daughter of Water had cared for the farmer's daughter in the
+stories.
 
-That did not mean Hedala would, though.
+But when her parents had been disappeared and no one had helped, when the
+Empire was pressing down on everyone and every part of life, when the Fardi
+were rarely seen apart from functions and Empire Day, when even their helping
+hand was smothered, or perhaps voluntarily removed, who knew... how did the
+stories help, then? Did the Fardi care, safe as they were under the protection
+of the Empire? The Fardi were rich, surely, and they kept the wealth to
+themselves now, or so went the rumours.
 
-Hedala, however, knew she was and looked too young. ‘Kid’ indeed. She’d never
+She wished she could trust the stories. But she didn't trust anyone.
+
+That did not mean she would cast the girl out, though. If the girl really was
+Fardi, and she had no reason to doubt it, given who this ship belonged to,
+given what she had seen of the crew, how the addressed the girl... well. Fardi
+were trained. Not by old simulators or commoner school, either. Fardi knew the
+galaxy, knew the trade, knew money, knew people. Even if Hedala was pretending
+to be dead, that did not mean all her knowledge and training was useless. She
+was a resource.
+
+Naema would keep the promise she'd made in a hurry, not for Fardi, not for her
+parents, but for survival. And if Hedala proved to be more trouble than
+worth... well, she could always split.
+
+-------------
+
+Hedala knew she was and looked too young. ‘Kid’ indeed. She’d never
 be able to carry out her escape if she didn’t have the older girl’s help. Even
 if she did manage, she had little hope of surviving or remaining free without
 help. Two girls traveling alone, without anyone looking out for them, nor any
