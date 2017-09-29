@@ -60,6 +60,8 @@ The girl seemed to make a decision, and said softly: “Hedala Fardi.”
 
 “Escaping. Like you, I think.”
 
+--- snip ---
+
 Naema got angry, suddenly. What did this child know about her? What did this
 child of richness and Family-with-a-capital-F know about escaping? She hissed
 questions to that effect, with a lot more profanity, disregarding her own
@@ -129,6 +131,8 @@ Oh. “Right. So.”
 “I have a name.”
 
 Was she smirking? Nah, only the light.
+
+--- snip ---
 
 “Hedala.” she tried. That wasn’t so bad. It still felt weird. Ah well. “Hedala,
 okay. So. We’ve got to figure out what to do with our… prisoners, and how to
