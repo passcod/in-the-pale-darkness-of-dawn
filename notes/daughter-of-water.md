@@ -7,7 +7,7 @@ fertile planet rather than a sandy desert.
 
 At least one of the tales speaks of the Daughter's meeting, getting-to-know,
 and subsequent companionship with a commoner's daughter (named Etra Ri, then
-Etra, sometimes called Daughter of the Earth).
+Etra Fardi, sometimes called Daughter of the Earth).
 
 The stories often show the Daughter being relentlessly generous and fair, as
 well as her Family. Some tales for older children, that Naema hasn't heard, but
@@ -19,29 +19,47 @@ The story of Naema and Hedala reflects some of the stories of the Daughter of
 Water and her partner, except they don't happen on Thabeska, this time round.
 This is the Star Wars theme: the stories ever repeating throughout the Galaxy.
 
-## Fardi
+## Names
 
 In Thabeskan, "Fardi" means "family". "Fardi family" is therefore like "curry
 meal" or "Lemba bread". But foreign linguistics aside, the Fardi Clan is
 literally the living representatives of Thabeskans. They are Thabeska's own
 Family. The Fardi Clan Head loses their first name and is simply "Fardi" or
 "the Fardi", the living personification of the very concept of family to
-Thabeskans.
+Thabeskans (or at least those who respect the old traditions/culture).
 
 No two living Fardi Clan members share the same first name, because it is their
-only name. Hedala Fardi literally just means "Hedala of the Family". People of
-Thabeska talk about individuals within the Clan as "Chenna", as their name, or
-as "The Clan" for the collective, keeping "Fardi" only when talking in Basic,
-by usage. Foreigners often get confused by the perceived familiarity or
-disrespect, when it is anything but.
+_only_ name, and some important Fardi first names are not re-used even after
+their death. There is also a convention of letting some time pass before
+re-using the name, often a generation, or 20 years.
 
-Referring to a Fardi as "Chenna Fardi" is acceptable in Basic, but frowned upon
-if used by a Thabeskan. In Thabeskan, it is borderline insulting, as only
-commoners have last names.
+When marrying, it is the choice of the partners whether to become Fardi. They
+may do so on the occasion of the marriage, or later on. However, becoming Fardi
+is irreversible, even if the partners separate afterwards. Becoming Fardi
+doesn't necessarily affect their name. Inversely, a marrying Fardi cannot
+become non-Fardi, but can change their name to match their partner's.
 
-## Watilda and Etra
+While inter-Fardi marriage is allowed, it is subject to Second Republic rules
+of consanguinity among Human and Human-adjacent species, which limits
+reproductive marriage to at least three levels of consanguinity, and
+non-reproductive sexual marriage to at least two. In practice, inter-Fardi
+marriage is rare in the Clan Core, and unusual elsewhere.
 
-When Etra Ri married Watilda, she became just Etra.
+## Fardi jurisdictions
+
+Fardi have their own internal structures, including a judicial system. In
+history, whether that system was compliant with the Thabeskan system has
+varied. Under the Third Republic, it was. Under the Empire, it was not.
+
+While Fardi play an important role in Thabeska, and at some points have been
+the government, for the past few centuries under the Third Republic they have
+been an informal party to a democratic government instead. Under the Empire,
+they are a not part of government at all, although they remain privileged.
+Under the Fourth Republic, they formed their own government again after
+overthrowing the local Imperial presence. Just like under the Third, they may
+transition to a democracy after peace has stabilised.
+
+## Children of Thabeska
 
 For some reason, perhaps because of the lack of tech at the time, perhaps
 because of tradition or morals, or perhaps because that's what the tales
