@@ -78,13 +78,29 @@ of a hundred years. A **millenium**, plural millenia, is a thousand years. A
 **tenmillenium** is ten thousand years and generally used by historians to mean
 the general ten-thousand-years-long period _N_ tenmillenia before current era.
 
+When ambiguous, the _kind_ of the period (standard, local, Lothal, Naboo, etc)
+is mentioned, but otherwise it is not. Thus the phrase "standard hour" should be
+rare, just like "standard day". Listeners can infer context, and so specifying
+"standard" is unnecessarily verbose.
+
 Months within years, weeks within months, days within weeks, and hours within
 days do not generally have names, and are instead referred to by their one-based
 ordinal index, and sometimes the ordinal and time noun are attached as a single
 word, e.g. the fifteenth hour, the third month, the fifth day or fifthday. Weeks
 within months are often attached to their months-within-years representation
 just to avoid ambiguity, e.g the second week of this month, or the first week of
-tenthmonth.
+tenthmonth. Depending on sentence flow, the particle ("the") may be dropped.
+
+While the concepts of morning/afternoon/evening do exist, the concept of "am"
+and "pm" does not, for hours. "First hour of the morning" is a non-sensical
+phrase at best. Instead, hours are expressed in full-cycle ordinal format, as in
+"thirteenth hour". Earth-style military format is never used: 1300. (This is
+both an in-universe thing and also an author-discretion thing. In my opinion,
+1300-type times always _sound_ strict and military, while "thirteenth hour" and
+variations as described above offer a much larger and fuzzier range of possible
+expressions and emotions. You can softly murmur "meet me on the roof at fourth",
+but it's much harder to teasingly convene an illicit rendez-vous while saying
+"oh-four-hundred hours".)
 
 By convention, a single-word time that's not accompanied by distinguishing
 context applies to the _next_ occuring period, even if the designation may refer

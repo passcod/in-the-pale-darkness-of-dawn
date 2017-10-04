@@ -55,12 +55,15 @@ Beca hooks their arm into hers as they walk out.
 
 "How about a honeymoon, hmm?"
 
-They pull her down and brush their lips against hers. Jeira golds them back and
-kisses them deeply, before turning back to the speeder, expecting a playfully
-frustrated groan and smiling as it comes.
+They pull her down and brush their lips against hers. Jeira holds them closer
+and kisses them deeply, before turning back to the speeder, expecting a
+playfully frustrated groan.
 
-"Let's get back home first, dear."
+"Let's get back home first, dear." she smiled, taking her place and turning
+to face Beca, who is already stepping forward.
 
 "Mmm, yes, let's get some privacy, dearly mine. We'll need it."
 
-She's glad she's driving so the blush doesn't show as much.
+--------
+
+
