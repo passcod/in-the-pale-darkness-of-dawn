@@ -56,8 +56,8 @@ Beca hooks their arm into hers as they walk out.
 "How about a honeymoon, hmm?"
 
 They pull her down and brush their lips against hers. Jeira holds them closer
-and kisses them deeply, before turning back to the speeder, expecting a
-playfully frustrated groan.
+and kisses them deeply, before breaking away and turning back to the speeder,
+expecting a playfully frustrated groan.
 
 "Let's get back home first, dear." she smiled, taking her place and turning
 to face Beca, who is already stepping forward.
@@ -66,4 +66,62 @@ to face Beca, who is already stepping forward.
 
 --------
 
+When their daughter gets home, Beca fusses her hair and asks about homework and
+does as if nothing has changed, as if the end of life as they know it hadn't
+just been announced. Jeira hangs back at first, but when Beca places a plate of
+biscuits and milk in front of the couch for Naema who's already looking through
+her homework, she approaches.
+
+She sits at her daughter's side, who turns to look and then sets aside her
+datapad. Jeira raises an eyebrow.
+
+“You're going to tell a story,” the child explains.
+
+“And how do you figure that, Naema-mine?”
+
+“You always get the same—” she tried to do something with her face, but only
+succeeded in grimaces. “— and you sit differently.”
+
+Jeira hmmmed and smiled. “So.”
+
+“Wait.” Naema interrupted. “Ms Haron told us a story today. An old story, like
+you and mama do. It was about… Etra and a herd of bantha.”
+
+“I think I know the one. With the *djotu*?”
+
+Naema nodded.
+
+“She said there are some things, like the old stories, we shouldn't write down.
+But then Mx Oriq in writing class said we should.”
+
+“Ah. Did they say why? Either of them?”
+
+Naema shook her head no.
+
+“It's an old debate,” Jeira started. “One side says tradition should remain
+spoken, so we remember it, and so it doesn't get lost. You know how sometimes
+you write something down and then you forget about it because you can just look
+it up? The other side says writing it down would help those who can't tell the
+stories, or who can't hear them, and it would make it easier to archive our
+history. They've been debating since before your grandmother was born.”
+
+Naema frowned and thought about where she was on the issue.
+
+“Where do you and mama stand?” she asked after a while.
+
+“We think both are right, but I'll keep telling the stories nonetheless.”
+
+“Mooom, that's not an answer!”
+
+“A mix of both sides is good for everyone: the stories get recorded so history
+is kept safe, and the less able can enjoy them and know them as well. And the
+stories still get told and passed on and adapted so the tradition continues
+living and doesn't become stuck. See? Both sides are right.”
+
+Naema pouted for a second, then nodded.
+
+“Now then.” Jeira began. “*A tele qa tele na rea, qen so Thabesqa roma te qoma,
+shè fardima te riqitua araoma.*
+
+“Once upon a time, there was a little girl…
 
