@@ -22,7 +22,7 @@ it moved away a little, and the little girl followed
 and so it went, on and on, for the most part of a morning
 the sun was high but the clouds were many, and the light filtering from above
 was uniform
-so the little girl did not notice when, while following the animal, she was lead
+so the little girl did not notice when, while following the animal, she was led
 into the jungle
 deeper and deeper into the jungle she went, absorbed as she was in caring and
 petting the gracious animal

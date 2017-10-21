@@ -204,3 +204,82 @@ advance into the forest. It had long gone, and she could see no other like it,
 nor even any other creature of even half the size it had been.
 
 She was lost.”
+
+Jeira suppressed a smile at the horrified expression Naema was making, and
+smirked slightly at Beca who had turned away from the stove to listen to the
+story — they had heard this particular tale already, several times in fact. The
+storytelling was what they were listening to, now and always; it was how they'd
+met, actually.
+
+“The little girl knew she could not remain in place. She started walking in a
+direction, any direction, trying to stay her course steady and straight. She
+used what little skylight she could see to guide herself. She did not speak, and
+did not yell, for she knew, somehow, none would hear her that would be friendly.
+
+Yet she opened her senses, her eyes, her ears, and she walked forward with a
+good step, confidently, surely, but ready at all times to act on her
+surroundings, as if she was a resident of this strange territory, and not the
+lost little girl she knew she was now.
+
+After a little while, she starting hearing murmurs. She stopped moving and
+looked around, but she could not see where they could come from, and she picked
+up her pace once again. It was as if the jungle itself was talking, guiding her
+onwards, guiding her out, she hoped.
+
+When she had trekked for what seemed hours, and the shadows were starting to
+lengthen, she almost despaired, but another murmured chant joined with the first
+she had been listening to. This time it was a clear and tingling sound, not too
+far, not immediately close.
+
+She altered her course to meet it, the soft and slow murmur of the jungle
+soothing her fears.
+
+She reached a gully,” _a small valley_, explained Beca to Naema, having joined
+her on the sofa. “And she knew she was saved, for it would provide her—”
+
+Jeira ignored the further whispered questions and explanations, but paused to
+allow them. She remembered when she had original been told the story, and had
+done the same with her grandmother, and when she had first told it to Beca, and
+they had interrupted her every minute to request details — some she hadn't known
+herself, and they had thrown themselves into study to discover all that the tale
+was describing.
+
+“The little girl knew she was saved, for the gully would provide for her as she
+followed it down. She walked with renewed vigour, and at nightfall reached a
+clearing of the woods, with a clear path, if grassy and not well trodden.
+
+When the first stars climber into the sky, she saw low square dark shapes
+cutting over the horizon. She was tired, lo, but she pulled herself up for the
+last of her journey, and stepped right close to the first *arapatùma*, the first
+hut she reached that had a ghost of light in its windows.
+
+A threeknock she gave, and a threewhile she waited, and when the doorway opened,
+light spilling outwards and warmth enveloping her, a tall being looking at her,
+she spoke the words she was taught, she requested kindness, and she requested
+rest. she starting speaking of being family of all the live over the land, but
+she was already welcomed and fussed over and given bluemilk, the slumbering
+embers stoked anew to heat her up.
+
+She fell asleep softly but quickly, with the empty cup still warm in her hands.
+When she woke it was morn, and another child was observing carefully.
+
+- ‘Hello,’ said the other, and
+- ‘Hello,’ said the little girl.
+
+- ‘My name is Etra,’ said Etra, who had found a girl just like she was in _her
+  spot_ upon waking.
+- ‘My name is Watilda,’ replied the little girl, smiling uncertainly.
+- ‘You're in my spot. But it's alright. Do you want bluemilk?’
+
+And that is how Watilda met Etra.”
+
+“Ooooh my stars” whispered Naema, “that was so cute. Is that one written down? I
+want to share it with Trisha and Paula and, well, everyone. Or I could invite
+them here? Or is it a *fardinanùma*?”
+
+Jeira looked over her at Beca, who shook her head.
+
+“Maybe later, *tutiri*. In a few weeks. It's a long story to tell.”
+
+Naema nodded, and said thanks, and picked up her datapad again. Homework, or,
+more likely, the Holochat channels she and her friends inhabited, beckoned.
