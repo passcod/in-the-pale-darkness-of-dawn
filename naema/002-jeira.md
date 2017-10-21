@@ -1,32 +1,36 @@
-Jeira gets married days before the first Imperial officer steps off his shuttle
-and takes over governance of Thabeska. She was strongly advised to do so during
-a Holonet conversation with Bren, who heard from Higor, who was directed to
-relay the message by a Fardi. So it's solid info.
+Jeira Santi gets married days before the first Imperial officer steps off his
+shuttle and takes over governance of Thabeska. She was strongly advised to do
+so during a Holonet conversation with Bren, who heard from Higor, who was
+directed to relay the message by a Fardi. And she's seen the Holonews. This
+doesn't feel like an exaggeration. Even the Holo forums are subdued.
 
-The Empire is coming. The Empire has already claimed Thabeska as its own, merely
-days after the attempt on the Supreme Chancelor and the Jedi massacre and the
-disbanding of the Republic.
+The Empire is coming. The Empire has already claimed Thabeska as its own, less
+than a week after the attempt on the Supreme Chancelor and the Jedi massacre
+and the disbanding of the Republic.
 
 The Empire is days old and already known for not being particularly kind to
 anything that deviates from its model of what beings should look like and behave
 like. Beings should look human; beings should obey.
 
-Thabeska, in a way, is lucky: it has no native population and is 90% humanoid.
-It is also sufficiently far into the Outer Rim that a certain level of
-lawlessness will be tolerated. It also has a strong and old history under a
-hybrid democratic and autocratic model. It's a small planet with little in the
-way of valuable exports or resources; it's not even on a traderoute!
+Thabeska, in a way, is lucky: it had no native population on colonisation and
+through the actions of fates and history is currently 90% humanoid. It is also
+sufficiently far into the Outer Rim that a certain level of lawlessness will be
+tolerated, according to the latest speculations. It also has a strong and old
+tradition under a hybrid democratic and autocratic model. It's a small planet
+with little in the way of valuable exports or resources, and it's not even on
+any well-known traderoute.
 
-The marriage frenzy is an administrative precaution, to create a paper proof
-and bureaucracy-recognised guarantee. Families on Thabeska are historically
-documented only internally, with the _fardishùma_, the family record, kept by
-each line and branch. Only families that travelled to worlds where Galactic
-marriages matterred more had theirs done; it had been on the Santi's todolist
-for some years now, but they had never really needed it.
+The marriage frenzy is an administrative precaution, to create a flimsy proof
+and Galactic-recognised guarantee. Families on Thabeska are usually documented
+only internally, with the _fardishùma_, the family record, kept by each line
+and branch. Only offworlders, rebellious youngsters, and families that
+travelled to worlds where a Galactic-recognised union matterred had theirs
+done; it had been on the Santi's todolist for some years now, along with a trip
+to visit Beca's grandparents on Orinda, but they had never really needed it.
 
-The ‘official’ marriage won’t change anything: Jeira has been living with Beca
-for more than ten years. They moved in together rather precipitously when Beca
-got pregnant, but that was a long time ago now.
+The ‘official’ marriage wouldn’t change anything: Jeira has been living with
+Beca for more than ten years. They moved in together rather precipitously when
+Beca got pregnant, but that was a long time ago now.
 
 It doesn't help calm Jeira's nerves. She wishes they could have done this
 properly. She frets as she tells Beca, but softens at their easy smile and
