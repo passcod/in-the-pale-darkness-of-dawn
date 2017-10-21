@@ -147,12 +147,29 @@ connection to it, and made themselves the agents of the Force itself.
 **Ancient Order of the Whills**, a name for the perceived consciousness of the
 Force used by many societies of Force users around the second tenmillenium BBY.
 
-**Sith** is an organisation of Dark Force users, using their Force connection
-exclusively by channeling emotions, often to destructive ends. They are the
-self-prescribed and Jedi-prescribed enemies of Light, often trying to enslave
-those weaker than them. **Sith** was also an ancient Force-sensitive species
-that was enslaved and genetically re-engineered by the precursors of the Sith
-organisation.
+**Sith of the Line of Bane**, or simply Sith, is an organisation of Dark Force
+users, using their Force connection exclusively by channeling emotions, often to
+destructive ends. They are the self-prescribed and Jedi-prescribed enemies of
+Light, often trying to enslave those weaker than them.
+
+**Original Sith**, or just Sith in more ancient contexts, or by members (often
+shades), was (is?) a category of Force users who seeked to master and explore
+all aspects of the Force. However, studying the so-called Dark Side, the usage
+of the Force fuelled by emotions rather than pure control without Falling
+irrevocably was extremely hard to teach to those young in the Force, and harder
+still to teach to those used to exercising exclusively the Light, controlled,
+side. As a result, many Sith warred and clashed, murdered and enslaved,
+conquered and pillaged. A vast amount of essential Original Sith teachings and
+discovery was forgotten or lost as those conflicts raged, which didn't help
+their descent into universal brutality. Additionally, while the Jeda'ii were on
+fairly good terms with Original Sith scholars, acknowledging and sharing in
+their deep research and expertise into all aspects of the Force, by the time of
+the splintering into Jedi and Jedaa'i, the Sith were already almost always
+Darkened and both groups condemned them all.
+
+The **Sith**, referred to as the **Sith species** in texts, was also an ancient
+Force-sensitive species that was enslaved and genetically re-engineered by the
+precursors of the Original Sith.
 
 **Talorta'ii** is a reptilian-avian Force-sensitive species with long lifespans.
 While their connection to the Force is guaranteed by their biology, they make
@@ -190,16 +207,16 @@ prompted them to develop space travel.
 pronounced (pah-dah-fah-ne, not pah-duh-fain), an ancient Tatooi term for
 “student”. Eventually made its way to Force organisations and then appropriated
 by the Jedi Order or one of its antecedents as **Padawan**. Was originally for
-all and any student, not just Force-sensitives, but the Ancient Arkanii
-(Tatooine is an Arkanis-sector world) taught all students in the knowledge and
-their traditions of the Force, regardless of whether they could actively use it.
+all and any student, not just Force-sensitives; the Ancient Arkanii (Tatooine is
+an Arkanis-sector world) taught all students in the knowledge and their
+traditions of the Force, regardless of whether they could actively use it.
 
 **Matari**, an Ancient Nahan word for "teacher". In the broader Galaxy, the
 name of a particular half-staff form that was taught to Jeda'ii by a nomadic
 martial arts school. Later evolved into the **Matachi** lightsaber form.
 
-**The three Walks of the Moon, the three Wells of the Sun, and the Seventh Whill,
-all encompassing.** Older than history, a name or a myth about the seven aspects
-of the Force. The Moon, Sun, and Void all feature in various stories and
-tales of the nomadic people of the Galaxy, reaching back tenmillenia through the
-unbroken chain of oral traditions.
+**The three Walks of the Moon, the three Wells of the Sun, and the Seventh
+Whill, all encompassing.** Older than history, a name or a myth about the seven
+aspects of the Force. The Moon, Sun, and Whill all feature in various stories
+and tales of the nomadic people of the Galaxy, reaching back tenmillenia through
+the unbroken chain of oral traditions.

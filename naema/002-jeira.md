@@ -17,10 +17,16 @@ lawlessness will be tolerated. It also has a strong and old history under a
 hybrid democratic and autocratic model. It's a small planet with little in the
 way of valuable exports or resources; it's not even on a traderoute!
 
-The marriage frenzy is an administrative precaution, to create a paper proof and
-bureaucracy-recognised guarantee. It won't change anything: Jeira has been
-living with Beca for more than ten years. They moved in together rather
-precipitously when Beca got pregnant, but it was a long time ago now.
+The marriage frenzy is an administrative precaution, to create a paper proof
+and bureaucracy-recognised guarantee. Families on Thabeska are historically
+documented only internally, with the _fardishùma_, the family record, kept by
+each line and branch. Only families that travelled to worlds where Galactic
+marriages matterred more had theirs done; it had been on the Santi's todolist
+for some years now, but they had never really needed it.
+
+The ‘official’ marriage won’t change anything: Jeira has been living with Beca
+for more than ten years. They moved in together rather precipitously when Beca
+got pregnant, but that was a long time ago now.
 
 It doesn't help calm Jeira's nerves. She wishes they could have done this
 properly. She frets as she tells Beca, but softens at their easy smile and
