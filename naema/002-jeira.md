@@ -43,13 +43,14 @@ process, even accounting for queuing. It's early yet in the morning, just before
 ninth hour, and according to the flimsi they're given as they wait, they're the
 47th family of the day.
 
-Jeira calms a toddler for family number 53 as the father calms his partner,
-trying not to let her own anxiety show through, when they're called on. Names
+Jeira calms a toddler for the family who got number 53 as the father calms his
+partner, trying not to let her own anxiety show through, *but it's too late
+now*, she tries to convince herself, and anyway they're being called on. Names
 and ident chips are checked by a droid, their religious preference enquired on.
-(No requirements for either of them; Jeira knows Beca's family subscribes to a
-small Temple on their home planet, but they haven't visited in years.) Too fast,
-they're guided to a chamber where a volunteering Fardi is waiting, looking
-extraordinarily tired.
+(No requirements for either of them; Jeira knows Beca's extended family
+subscribes to a small Temple on their home planet, but they haven't visited in
+years, nor practiced.) Too fast, they're guided to a chamber where a
+volunteering Fardi is waiting, looking extraordinarily tired.
 
 Any other time, Jeira would have been awed at the idea of being married by the
 Family, but right now all she feels is worry: if the situation is so dire that
@@ -59,7 +60,8 @@ their own numbers, things really are not well.
 "Sit down, please," she implores him after they've been greeted. "You look like
 you need a rest. Please."
 
-A grateful smile and words of thanks, yet they soon get through the ceremony.
+A grateful smile and words of thanks, yet they soon get through the ceremony,
+and the flimsiwork that was the entire point of the exercise.
 
 Beca hooks their arm into hers as they walk out.
 
@@ -133,5 +135,72 @@ Naema pouted for a second, then nodded.
 “Now then.” Jeira began. “*A tele qa tele na rea, qen so Thabesqa roma te qoma,
 shè fardima te riqitua araoma.*
 
-“Once upon a time, there was a little girl…
+“Once upon a time, there was a little girl playing in the wild, not the far
+wild, not the wastes, but only the little bit of wilderness behind her home. She
+had often played there in her childhood, and her older brother, who was supposed
+to be watching her, didn't think much of leaving her unsupervised for just a
+moment as he went to fetch a glass of water.”
 
+“Oh no!” exclaimed Naema, and then she shushed herself to hear the story.
+
+“But today the little girl had heard a noise, and had approached the limits of
+the property, curious as to what had made it. She hadn't learned to be cautious
+yet, but she knew to follow her instincts, and nothing felt wrong to her.
+
+There was an animal, with soft fur, short antlers, and cute ears, tall as she
+was but larger and stronger on its four legs, although it was obvious, even in
+to the little girl, that it was a youngling, not much older than she was in
+their respective years.
+
+She approached it slowly, not wanting to scare it away, and when she was right
+next to it she softly started to pet it.”
+
+Naema looked torn between awwing at the scene, and being scandalised at the
+carelessness exhibited by the girl in the tale.
+
+It was easy to forget that those tales had happened a long time ago, when
+Thabeska was a softer world, mostly forests and rivers rather than mostly
+deserts of sand and rock. In the Thabeska of the stories, animals were
+approachable; in today's Thabeska, small children were taught what to do when
+approached by wild beasts: look more threatening, back away without turning, and
+in extreme cases light up a pocket flare to scare them. Modern-times animals in
+the wild desert were not cute, and approaching them was _not_ a good idea.
+
+“She smiled as she did so, but was very careful in not baring her teeth. She
+stood confidently but loosely, without tensing. She took great care in only
+thinking of peace and calm and the happiness she was exhuding.
+
+The animal must have understood, because it turned aside unconcerned and kept at
+its occupation, but it did not leave, accepting the petting. She grew bolder in
+her strokes, but ever respectful.
+
+When the animal had exhausted all that there was to eat in its little patch of
+dirt, it moved away a little, and the little girl followed, petting and
+caressing. And so it went, on and on, for the most part of a morning.”
+
+“Oh no,” repeated Naema, very softly and almost without noticing it herself.
+
+“So absorbed was she in her task, the little girl did not notice when the
+ambient light darkened, and the air chilled, and the wind didn't blow freely
+anymore. She was lead into the jungle, in a haphazard way according to the
+whims of the gracious animal.
+
+But suddenly there was a noise! And the animal stood at attention, little girl
+forgotten in its worry, then bounded away swiftly away from the source of the
+noise, leaving a disoriented child standing in the middle of… well, the little
+girl realised she did not know where she was!
+
+There was jungle and trees as far as she could see. Jungle forward, jungle back,
+jungle to the right, jungle to the left, jungle above her, and she was stepping
+on unfamiliar jungle ground.
+
+She did not know how to read the jungle. She could not see through, nor glimpse
+a clearing or even a structure. She could not remember what direction she had
+come from, so surprised she had been by the sudden departure of her companion
+for the morning.
+
+Even if she could, the animal and her would have taken many a turn through their
+advance into the forest. It had long gone, and she could see no other like it,
+nor even any other creature of even half the size it had been.
+
+She was lost.”
