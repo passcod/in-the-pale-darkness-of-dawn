@@ -1,0 +1,15 @@
+#!/usr/bin/bash
+
+count=$(word-count * | tail -n1 | cut -d\  -f1)
+echo $count
+
+user=passcod
+secret=$(cat ~/.vault/nano_key)
+
+bundle="$secret$user$count"
+hash=$(echo -n $bundle | sha1sum | cut -d\  -f1)
+#echo $hash
+
+curl -XPUT \
+  -d "hash=$hash&name=$user&wordcount=$count" \
+  https://nanowrimo.org/api/wordcount
