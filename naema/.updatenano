@@ -11,5 +11,5 @@ hash=$(echo -n $bundle | sha1sum | cut -d\  -f1)
 #echo $hash
 
 curl -XPUT \
-  -d "hash=$hash&name=$user&wordcount=$count" \
+  -sd "hash=$hash&name=$user&wordcount=$count" \
   https://nanowrimo.org/api/wordcount
