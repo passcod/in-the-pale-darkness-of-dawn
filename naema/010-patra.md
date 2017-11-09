@@ -188,11 +188,92 @@ she darts to open the door after ensuring he can stand alone for a moment. Then
 she helps him undress.
 
 For a moment he thinks she's going to get into the fresher with him, but she
-grins at him and turns away, bundling his clothes and backing out of the room
-watching him carefully, ready to leap and help him at the first sign of trouble.
-He smiles and waves her off, steady. He'll be fine for a minute.
+grins at him and turns away, bundles his clothes, and backs out of the room
+watching him carefully, ready to leap and help him at the first sign of
+trouble. He smiles and waves her off, steady. He'll be fine for a minute.
 
-The water rushes around him, and he closes his eyes, enjoying the sound and feel
-of being warm and wet. He reopens them quickly, not wanting to inadvertently
-doze off. That wouldn't be very smart of him, if he wanted to see the outside of
-his room anytime soon.
+The water rushes around him, and he closes his eyes, enjoying the sound and
+feel of being warm and wet. He reopens them quickly, not wanting to
+inadvertently doze off. That wouldn't be very smart of
+him, if he wanted to see the outside of his room anytime soon.
+
+When he steps out and reaches blindly through the steam for a towel, he's more
+refreshed than he can ever remember feeling. He's also starting to realise just
+how worried he must have made everybody, as well as how lucky he is that they
+managed to pull him off before more damage could be achieved.
+
+Working to exhaustion is not a good idea, and working beyond exhaustion as he
+has very clearly done now seems monumentally stupid. Not just for his own
+health (and he knows that he will pay for it for the weeks or even months to
+come), but for the survival of the entire community. While they had been
+following him and undoing many of his decisions, they weren't everywhere all
+the time. Eventually he would have said something to someone that could not be
+undone, and it would all have gone up into flames. Very probably _literal_
+flames.
+
+As it is, he's going to have to pull up every single order he's given in the
+past two, maybe three, weeks, and review them. He simply cannot afford for
+something subtle enough it wasn't caught to run away and become a disaster at
+some point in the future. He's also going to have to implement _something_ so
+this doesn't happen again.
+
+TK passes him clean clothes, then takes one look at his thoughtful face and exclaims:
+
+"For the love of Malar, Patra, if you start keeping things in already so soon
+after *this*… delegate. Tell us what you need. You did it very well for
+twenty-five years, you can start doing it again."
+
+He winces and bows his head to avoid her glare.
+
+"You're right." he admits.
+
+"I know I am." she declares, then smirks. "But it's nice of you to say so."
+
+He focuses only on getting dressed for a moment, and watches TK in the mirror.
+Now he's properly awake, he can see what he did not earlier: the lines of worry
+of fatigue, bags under her eyes visible even with a makeup that is heavier than
+usual, if you know what to look for. Even her skin looks lighter than he's used
+to, and he puzzles over it for a moment. _Lack of sun._ But it's always sunny
+at this time of the year. It hits him more than it ought, to realise she
+probably hasn't stepped outside in weeks.
+
+"Okay, some of this is probably going to sound really obvious, but I — we —
+need a few things urgently." He raises a finger. "We need to setup something, I
+don't know what yet, to stop this" he gestures at himself "from ever happening
+again. Perhaps a council like there was at the time of Clan Head TK." He raises
+another finger. "I need to go through every decision, every order, everything I
+said, in the past few weeks, maybe even the month, to check them." He keeps
+ticking off. "We need to start planning long term again, and for that we'll
+need to start planning to get to a point where we're capable of planning long
+term. And finally I need to see my daughters and nieces, and after that I need
+a moment alone with Chenna."
+
+He looks at TK who is nodding appreciatively.
+
+"You've already thought of all that, haven't you?" He knows the answer, though,
+and he might as well use this: "Am I missing something?"
+
+She raises an eyebrow.
+
+"Aaaand I need to tell you that I love you, and that I thank you for sticking by
+me and helping me and taking care of me and I'll find a way to make this, this
+all up to you." He takes a tentative step forward, and adds softly: "I haven't
+forgotten my promise."
+
+She stares at him and then:
+
+"You idiot! Do you know how much we worried, how little we've slept, how much
+it's taken on all of us to make sure you functioned and didn't fuck everything
+up and didn't fucking _kill yourself_ you bloody prideful tradaffian. I don't
+give a flying kark about the promise. I just want you alive and our family
+safe."
+
+She embraces him and whispers in his ear:
+
+"I am very happy you're back."
+
+And Patra almost thinks he's out of the worst when she adds:
+
+"If you ever do this again it will be the last time you do *anything*."
+
+He squeezes her back and wisely stays silent.
