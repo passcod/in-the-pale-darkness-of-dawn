@@ -206,16 +206,18 @@ Jeira nips playfully at Beca's finger, which is still pressed against her lips.
 They move their finger along Jeira cheek, caressing it. Jeira leans into the
 touch. They're both very tired, and she knows it, yet she needs more than a
 cuddle right now. She brings her hand up, brushing against Beca's back and
-starts to play with their hair, then pulls them forward for a kiss. A hand
-slides under her shirt, and she collapses backward, bringing Beca with her in
-the movement, breathing their scent in and holding them close.
+starts to play with their hair, then pulls them forward for a kiss.
+
+Beca presses their hips forward and Naema feels herself straining against her
+dress. A hand slides under her shirt, and she collapses backward, bringing Beca
+with her in the movement, breathing their scent in and holding them close.
 
 "Uh uh, lemme off a bit," she hears. "Gotta have more space than that to get
 that pesky shirt off of you."
 
-She gives a little laugh and lets Beca go just enough that she can slip a hand
-further down while the latter is busy with undoing her buttons. The tremors that
-generates are a good portent of things to come and she raises her head again,
-her eyes pleading for a kiss.
+She gives a little laugh and lets Beca go just enough that they can start
+undoing her buttons, and she slips a hand further down, causing Beca to shiver
+in eagerness. Naema raises her head again, her eyes teasing as she reaches for
+a kiss.
 
 Yes. It is very good to be home.
