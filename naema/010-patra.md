@@ -1,19 +1,19 @@
 When Palpatine denounced the Jedi as traitors and established his Empire, Patra
-was in a conference room with five other ranking members organising the pilot rotation for the next three
-months, and his highest worry was when to schedule his niece TK who had finished
-training but had as of yet no real experience.
+was in a conference room with five other ranking members organising the pilot
+rotation for the next three months, and his highest worry was when to schedule
+his niece Rume who had finished training but had as of yet no real experience.
 
 An aide burst in, ignored all the outraged cries about the meeting being
 important and private and _only for command_ and made a beeline for Patra, who
-stood up to receive the message. The aide, he thought her name was TK, appeared
-shaken and dazed, and he immediately thought of the worst: a catastrophic
-accident involving a core family member, perhaps. That was what he had steeled
-himself himself for.
+stood up to receive the message. The aide, he thought her name was Jamya,
+appeared shaken and dazed, and he immediately thought of the worst: a
+catastrophic accident involving a core family member, perhaps. That was what he
+had steeled himself himself for.
 
 When the aide explained, he blinked and sat down, and then made her repeat it,
 and then another time. And then he sat there, for what seemed an eternity
-(reviewing the situation he learned it was less than a minute, and even then >< he had
-difficulty believing it, <--with the recording on the meeting).
+(reviewing the situation years later he learned it was less than a minute, and
+even then, with the recording of the meeting, he had difficulty believing it).
 
 When he finally had half-processed the information, he'd jumped to his feet,
 bousculing the aide who was hovering, unsure what to do, and ordered all present
@@ -49,7 +49,7 @@ He feels like he hadn't slept in a hundred years.
 
 "You haven't, Patra. We were all really worried."
 
-Ah, he said that out loud. He shields his eyes against the light and sees TK,
+Ah, he said that out loud. He shields his eyes against the light and sees Dir,
 half dressed, bags under eyes, smiling shakily. He wonders how long _she_ slept.
 
 "More than you, you mad man. You're not going to like your face in the mirror
@@ -57,7 +57,7 @@ this morning." She looks amused, yet incredibly tired.
 
 He supposes that's justified.
 
-"TK. Thank you, for…" he trails off when she waves him off.
+"Dir. Thank you, for…" he trails off when she waves him off.
 
 "Thank _you_ for going to sleep, you idiot." she huffs.
 
@@ -82,19 +82,18 @@ aloud, raising a hand to indicate he's not asking a question.
 "I'm just working through this. The day before yesterday, it was quieting down,
 but we still had an issue with pilots arriving after curfew."
 
-TK nodded.
+Dir nodded.
 
 "The day before that…"
 
 "Ninthday," she supplies.
 
-"Ninthday. There was the fire in the north side, and the food crisis in TK. Two
+"Ninthday. There was the fire in the north side, and the food crisis in Tyriq. Two
 schools closed. And there was the spice shipment that we intercepted and had to
 figure out where to return."
 
-He feels quite proud he's remembered all this.
-Perhaps it's not as bad as his wife thinks. When he looks at her that illusion
-shatters.
+He feels quite proud he's remembered all this. Perhaps it's not as bad as his
+wife thinks. When he looks at her that illusion shatters.
 
 "Well, you got the major events right. But that wasn't ninthday."
 
@@ -110,7 +109,7 @@ schools closed last week, this week we've lost five more."
 
 No. No, that's not possible. That is— that is a disaster.
 
-"Nononono." TK is suddenly there, holding him. "No. Look. You were really tired,
+"Nononono." Dir is suddenly there, holding him. "No. Look. You were really tired,
 but also you've been carrying us all, us _all_, through this. You got a bit
 loopy near the end, and _we supported you_. We did everything so that the entire
 thing would keep running just like you would want it, because we knew that's how
@@ -137,8 +136,8 @@ anyway. She reads his thoughts as they're painted on his face.
 "I'll bring you paperwork if it's really urgent, but the only other people
 you'll see today are your daughters."
 
-Oh. Oh! Eyes wide, he turns towards TK then turns towards the door, then turns
-towards TK again.
+Oh. Oh! Eyes wide, he turns towards Dir then turns towards the door, then turns
+towards Dir again.
 
 "Yes, your daughters, Patra. Our children? You know, about yee high" she mimes
 three different heights "hair dark like me, always running after us? Remember
@@ -147,9 +146,9 @@ them, now?"
 "Yes, yes, woman, sheesh. I might not remember all I did these past few weeks
 but I'm pretty sure I remembered our daughters. I remember having dinner…"
 
-"You did, yes. Don't you worry about that," she reassures him. "And the dinners were always great,
-even if they tended to be interrupted often and not everyone was there all the
-time."
+"You did, yes. Don't you worry about that," she reassures him. "And the dinners
+were always great, even if they tended to be interrupted often and not everyone
+was there all the time."
 
 Right. Dinners. Dinners with his family and…
 
@@ -157,11 +156,11 @@ Right. Dinners. Dinners with his family and…
 _family_. Chenna is the _heir_. He is their uncle, and with his brother and
 their mother… _oh, Tristan, if you could see what this world has gone to._
 
-TK is smiling at him, now. His thoughts are starting to return in earnest,
+Dir is smiling at him, now. His thoughts are starting to return in earnest,
 although he still has trouble putting times, even relative times, to events. He
 knows intellectually that the fire was earlier in the week, but he still thinks
-of it "yesterday". Perhaps to his body, that's it is, if he's had as little
-sleep as he understands.
+of it "yesterday". Perhaps to his body, it is, if he's had as little sleep as he
+understands.
 
 He half-remembers suggesting using flying transports to extinguish the fire, and
 frowns at himself for the foolishness this would have been, with the measures
@@ -182,7 +181,7 @@ bit, but is steadied.
 "I could use your help to get there, I think, but I should be fine once inside."
 he asks.
 
-TK gets off the bed and stands next to him, and takes his arm when he offers it,
+Dir gets off the bed and stands next to him, and takes his arm when he offers it,
 interlacing his fingers with hers. They walk slowly to the ensuite fresher, and
 she darts to open the door after ensuring he can stand alone for a moment. Then
 she helps him undress.
@@ -217,7 +216,7 @@ something subtle enough it wasn't caught to run away and become a disaster at
 some point in the future. He's also going to have to implement _something_ so
 this doesn't happen again.
 
-TK passes him clean clothes, then takes one look at his thoughtful face and exclaims:
+Dir passes him clean clothes, then takes one look at his thoughtful face and exclaims:
 
 "For the love of Malar, Patra, if you start keeping things in already so soon
 after *this*… delegate. Tell us what you need. You did it very well for
@@ -229,7 +228,7 @@ He winces and bows his head to avoid her glare.
 
 "I know I am." she declares, then smirks. "But it's nice of you to say so."
 
-He focuses only on getting dressed for a moment, and watches TK in the mirror.
+He focuses only on getting dressed for a moment, and watches Dir in the mirror.
 Now he's properly awake, he can see what he did not earlier: the lines of worry
 of fatigue, bags under her eyes visible even with a makeup that is heavier than
 usual, if you know what to look for. Even her skin looks lighter than he's used
@@ -237,18 +236,18 @@ to, and he puzzles over it for a moment. _Lack of sun._ But it's always sunny
 at this time of the year. It hits him more than it ought, to realise she
 probably hasn't stepped outside in weeks.
 
-"Okay, some of this is probably going to sound really obvious, but I — we —
-need a few things urgently." He raises a finger. "We need to setup something, I
-don't know what yet, to stop this" he gestures at himself "from ever happening
-again. Perhaps a council like there was at the time of Clan Head TK." He raises
+"Okay, some of this is probably going to sound really obvious, but I — we — need
+a few things urgently." He raises a finger. "We need to setup something, I don't
+know what yet, to stop this" he gestures at himself "from ever happening again.
+Perhaps a council like there was at the time of Clan Head Parasuri." He raises
 another finger. "I need to go through every decision, every order, everything I
 said, in the past few weeks, maybe even the month, to check them." He keeps
-ticking off. "We need to start planning long term again, and for that we'll
-need to start planning to get to a point where we're capable of planning long
-term. And finally I need to see my daughters and nieces, and after that I need
-a moment alone with Chenna."
+ticking off. "We need to start planning long term again, and for that we'll need
+to start planning to get to a point where we're capable of planning long term.
+And finally I need to see my daughters and nieces, and after that I need a
+moment alone with Chenna."
 
-He looks at TK who is nodding appreciatively.
+He looks at Dir who is nodding appreciatively.
 
 "You've already thought of all that, haven't you?" He knows the answer, though,
 and he might as well use this: "Am I missing something?"
