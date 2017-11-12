@@ -1,0 +1,61 @@
+digraph Fardi {
+  AbaWife [label="?"];
+  AbaShip [shape=point];
+  AbaParentShip [shape=point];
+  AbaSiblingShip [shape=point];
+  PatraDir [shape=point];
+  TristanMila [shape=point];
+  AdelaCorinNadi [shape=point];
+
+  subgraph ships {
+    edge [dir=none, color=red, weight=20];
+    Aba -> AbaShip; AbaWife -> AbaShip;
+    AbaSibling -> AbaSiblingShip; AbaSiblingPartner -> AbaSiblingShip;
+    Patra -> PatraDir; Dir -> PatraDir;
+    Tristan -> TristanMila; Mila -> TristanMila;
+    Adela -> AdelaCorinNadi; Corin -> AdelaCorinNadi; Nadi -> AdelaCorinNadi;
+  }
+
+  subgraph parentage {
+    edge [color=blue, weight=20];
+
+    AbaParentShip -> Aba;
+    AbaParentShip -> AbaSibling;
+
+    AbaSibling[label="?"];
+    AbaSiblingPartner[label="?"];
+    AbaSiblingShip -> Adela;
+
+    AbaShip -> Tristan;
+    AbaShip -> Patra;
+
+    PatraDir -> Mataka;
+    PatraDir -> Child2;
+    PatraDir -> Child3;
+
+    Child2 [label="?"];
+    Child3 [label="?"];
+
+    TristanMila -> Chenna;
+    TristanMila -> Hedala;
+
+    AdelaCorinNadi -> Rume;
+    AdelaCorinNadi -> Maeda;
+    AdelaCorinNadi -> Tosh;
+  }
+
+  subgraph succession {
+    edge [color="#008800", penwidth=3, weight=0];
+
+    AbaSibling -> Aba [style=dashed];
+    Aba -> Tristan;
+    Tristan -> Patra [style=dashed];
+    Patra -> Chenna;
+  }
+
+  subgraph heads {
+    Aba [color="#008800"];
+    Tristan [color="#008800"];
+    Patra [color="#008800"];
+  }
+}
