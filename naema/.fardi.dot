@@ -30,11 +30,8 @@ digraph Fardi {
     AbaShip -> Patra;
 
     PatraDir -> Mataka;
-    PatraDir -> Child2;
-    PatraDir -> Child3;
-
-    Child2 [label="?"];
-    Child3 [label="?"];
+    PatraDir -> Sitra;
+    PatraDir -> Devena;
 
     TristanMila -> Chenna;
     TristanMila -> Hedala;
