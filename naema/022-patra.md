@@ -151,12 +151,12 @@ information, there's one thing he's sure of when it comes to the Force: whether
 you are sensitive or not, if It tells you something, you better follow Its
 advice.
 
-The Force, as It is named in Basic, has a faint but special presence on
+The Force, as it is named in Basic, has a faint but special presence on
 Thabeska. It is never really explicited in all but the more obscure of the
 stories, and the Fardi clan leaders have all, over the past millenium,
-contributed to removing from public circulation those stories that reference It.
+contributed to removing from public circulation those stories that reference it.
 
-In Thabeskanìr, It is named Hituma, the All-Watcher. It watches over all that
+In Thabeskanìr, She is named Hituma, the All-Watcher. She watches over all that
 live in its domain, whether that is living beings or Larma, spirits and shades.
 
 The Ancient Thabeskan used to pray to Hituma for good fortune and safe
@@ -164,7 +164,7 @@ travels, hinting at a more appreciated Force presence on Thabeska, but the
 practice died out several millenia ago.
 
 If they could provide a safe enough haven for a fugitive servant of Hituma, that
-might not only bring Its favour onto their efforts, but perhaps Ashla could
+might not only bring Her favour onto their efforts, but perhaps Ashla could
 confirm whether Hedala was sensitive to the Force as well. What Patra would do
 with the information, he didn't know yet, but in this, more knowledge was almost
 always a good thing.
