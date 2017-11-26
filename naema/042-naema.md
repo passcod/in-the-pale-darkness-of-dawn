@@ -16,10 +16,6 @@ co-workers, perhaps even giggled shyly when topics veered to one's or the
 other's sex life. She'd have gotten home early, and fixed food on autopilot,
 and gone to sleep hoping for a calm night. 
 
-[](TK: add self-practice of looking for exits, quick-memorising of faces -- new
-and regular -- and positions, cover space, weapons... while entering rooms /
-walking about.)
-
 But today she believes in her dream, so she walks.
 
 After a year of dreaming on her own, of not knowing what to do, she had started
@@ -44,104 +40,166 @@ tavern part of the cantina despite not being nearly old enough.
 (There were other ways should could have gotten in, but she felt hollow just
 thinking about them.)
 
-and she detoured through to the cantina,
-nodded in the direction of the bar, waved after a greeting by another regular,
-and passed into the backroom. There, she ignored the crokin tables, held her
-breath through the haze of spice vapour, and headed to a little dark room.
+Convincing the staff to let her in the second time — and beyond — had been a
+trick and a half, but she'd gotten there. The cantina was fine, for food and
+conversation, but it was in the tavern that all the interesting things happened.
+Access was indispensable to anyone needing to trade in information.
 
-Walking there, she glanced at the exits, remembered every hiding place she'd
-figured out, and used her swerving around a table in her path to sweep the
-entire room and quickly estimate the number of people in the room, their
-species, how they were dressed, what she thought that said about them. There
-was no risk here, but it was practice. Always practice. Get anywhere new,
-anywhere that might have changed: observe, gather information, do so quickly,
-do so discreetly.
+It was also packed with interesting _beings_. She'd met and interacted with more
+species in there than she'd learned about back when she was still at school.
+She'd also found that an air of wonder and fascinated questions about home
+planets and physiology and career could, in the right circumstances (and with a
+bit of tact — she had definitely put her foot in her mouth more than once), be
+very conducive to conversation.
 
-She admitted to herself that she might have cribbed a lot of those habits from
-holodramas, but she'd tried to do her diligence in looking up — ever so
-carefully through the controlled and most certainly spied upon access to the
-Holonet she had — actual information and techniques. At least to eliminate the
-very wrong.
+Everyone liked talking about themselves, especially in such an innocent manner.
+It was just a matter of picking up the hints when they presented themselves.
 
-An obvious source of good technique was Fardi-affiliated people. They higher
-they were, the more experienced… but also the harder to watch and learn from,
-in consequence. And she wasn't about to approach any of them directly, even at
-lower levels. The Galaxy was Imperial, at the moment, and in any case Thabeska
-was in the Outer Rim. Trust was nuanced and tiered, and trust in strangers
-wasn't very high up on the list.
+But what Naema liked most about the tavern is that it gave way onto a gaming
+lounge. She had thought the room filled with gambling machines, and it was, so
+for the longest time she hadn't even entered; gaining money was hard enough
+without spending it all for a dopamine rush.
 
-Another obvious source were the stormtroopers. Despite having a perennial
-reputation for being very bad shots, and generally bad at everything (she
-suspected a lot of that was government propaganda designed to lure potential
-antagonists in a false sense of security, but she also had never been very
-close to a firefight involving stormtroopers — or any firefight for this
-matter), troopers were trained. They'd all gone several years in the Academy,
-and there they were presumably taught all kinds of things she'd have loved to
-know in a standardised manner.
+But once she'd stumbled into it by accident, and found an old flight simulator.
+It was free to use, too: either because nobody had fitted it for taking credits,
+or because nobody was using it in the first place. She'd logged hours and hours
+on it, and mentioned it casually to a patron in the tavern one afternoon.
 
-She'd briefly considered joining the Academy. But that was _not_ happening. So
-instead she took to observing its graduates, which doubled as stealth and
-patience and sight-taking practice all in one. There weren't that many troopers
-on Thabeska, she knew from holos and the news, but it still felt like a lot.
-You never really got used to it. Nobody did, as much as they pretended, if only
-to themselves. Conversations dimmed, eyes were cast down, lekku were relaxed,
-nerves were tensed.
+The Zabrak had sat up, looking interested, and asked about the model and other
+information. She only knew the make, carved into its side: HRZ-41, but had
+invited him to look it over with her.
 
-It comforted her, to see that despite the Empire being a reality for a third of
-her life now, it wasn't completely normalised. [][TK continue there]
+"I don't do humans, girl." he'd said.
 
+After fighting her blush, she'd dragged him out to the gaming lounge. Well,
+she'd tried to drag him there, only to find the tall and muscled being was an
+immovable object who looked amused enough at her huffing he'd followed her.
 
+The Zabrak had absently given a name: Freddie Manal, as he proceeded to fawn
+over the simulator like a youngling in a toy store. Turned out she'd found
+herself a retired (read: stuck planet-side with the new regulations) pilot...
+and from then on, a flight mentor and simulator rival.
 
-As she pulled open the door, a Mon Calamari with his skin scarred from being
-desicated, a consequence of living on a planet where water was at a premium,
-according to his stories, leaned out and sniffed at the air, grimacing and
-mumbling about storms. He noticed her and showed himself out, letting her have a
-turn with a parting comment: “one day I'll beat your score, Naema, just you
-wait.”
- 
-“One day.” She smirked as she closed the door, settled into the simulator, and
-loaded the program for a takeoff from Takodana, wherever that may be. The lush
-jungle was unlike anything she'd ever seen or was likely to see here, but
-negotiating the foliage and giant fauna was a good warmup before switching to
-hyperlane navigation on the Coruscanti traderoute, or the three dimensional
-air-taxi traffic on busy Serenno.
- 
-After two hours in the box, she emerged and went to buy a drink at several times
-the real price, in the agreed-upon way to compensate the owner and bartender for
-the use of the facilities without eliciting undue suspicion.
+It had taken her years to beat his high scores, by which time the victory was
+bittersweet: Manal had stopped showing up at the cantina several months prior.
+Whether he'd found a ticket away or had met a less savoury end, Naema doubted
+she'd ever find out.
 
-Alexis noticed her coming out and shifted over, put his elbow on the bar so
-close to her drink that she worried about him bumping it over for a moment, and
-started talking at her. She smiled as gossip about everything from common
-neighbourhood concerns to the colour of crops in the southern hemisphere's
-farmlands to the score on the current games of... some sport she wasn't actually
-sure the details of, as she'd stopped paying attention about five words into the
-spiel.
+She hasn't flown a real ship in atmosphere or out of it yet, of course, but it
+doesn't feel as impossible now. She'd told Manal her dream after one session,
+sweaty and flushed and still shaky from a virtual collision in the nightmarish
+traffic of Coruscant, as the simulator still called it, despite the official
+name having been changed to Imperial Centre for years now. He had nodded and
+encouraged her quietly; he was looking for the same, really.
 
-The ritual was both about allowing the man a safe outlet for his innate desire
-to talk the ear off someone with asinine details of the daily life of feral cats
-around the city -- both real and metaphorical -- and a cover for anyone looking
-in her direction. Alexis was as gay as they came, Naema was Not Interested, and
-that effectively stopped anyone assuming otherwise having a try.
+She logs time on the machine every week now, to keep practiced, but she feels
+like she's reached its end. It's purely a flight simulator, too, not a
+starfighter training model. There's only so many times one can do complex
+landings and maneuvers in asteroid fields before getting tired of the limited
+fidelity afforded by the old and creaking inertial compensator, or the glitches
+in the holoprojectors when reaching undefined edges between the recorded and
+simulated background settings.
 
-It was also a good way to share information, like the new route of the curfew
-patrol. It was likely third or fourth hand information, her companion having
-little use for it as he was a permantent resident of this very establishment, 
-so not the most precise, but still good to know.
+She gets out of the gaming lounge, steps around a drunken Felucian whose
+tentacles reach instinctively towards the sudden presence, and very carefully
+does not react at the unexpected stormtroopers at the bar. She must have spent
+longer than she thought in the holosim, or they got here early. In any case, she
+arcs her trajectory to smoothly get away from them towards... well, one table is
+playing crokin, and that's as good a reason as any to veer off.
 
-When she got back to her street, the sun was setting, leaving her with a
-comfortable margin of minutes before curfew patrol was due to to pass through.
-She unlocked her door with a bioscan, a security measure that was perhaps
+She melds into the small gathering of spectators, and watches the game for a few
+minutes before shifting slightly so she can also observe the troopers through
+the bodies. She relaxes: despite the uniform armour, she recognises them as the
+regulars who "patrol" the tavern through their patronage.
+
+Differentiating whities was another impossible-sounding task a few years ago.
+But she had met a grisled pale-skinned bounty hunter — looking very out of place
+among the darker skin tones of most other humans on the planet — who claimed to
+hail from Bavva but had the distinctive sharp accents of a Core worlder when he
+relaxed, if ever so marginally. (Naema didn't pry, though. Beings had secrets,
+and that was that.) He had indicated scratches, height, how low straps hung,
+their gait, the way they moved, how they talked. A panoply of small hints that,
+together, let one distinguish troopers from one another.
+
+"They do recognise themselves, after all." he had pointed out.
+
+She'd hummed thoughtfully and added as she understood the insight:
+
+"Ah, that's true. And they couldn't do that if they were all exactly the same."
+
+The Bavvarian had laughed dryly at that, but only shaken his head when she'd
+raised an eyebrow, looking as if he'd shared a private joke with himself.
+
+Perhaps he had. Naema had smiled awkwardly, and after a moment, the man had
+continued describing details that everyone ignored on the troopers, but that
+were very helpful for the savvy observer.
+
+The game of crokin finishes, and the players change. She takes advantage of the
+movements to slip forward and out through to the cantina, lazily waving at Kiri, the
+bartender, as she passes. The troopers don't notice her at all.
+
+She glances at the chrono on the far side of the room as she steps out, mentally
+calculating how long she has until curfew, taking into account how far her house
+is. No, there's not enough time to hang around more, she decides.
+
+She stops at a table, gets out her scarf and mask, looks outside to gauge the
+amount of sand in the wind. She hopes the wind will abate before the morning.
+
+When she gets back to her street, the sun is setting, leaving her with a
+comfortable margin of minutes before curfew patrol is due to to pass through.
+She unlocks her door with a bioscan, a security measure that is perhaps
 overkill here, at the far edge of the city, but not so uncommon a few blocks
-further towards the center that it would be noticed.
+further towards the center that it would draw too much attention.
 
 She steps in, closes the door behind her, and says hello to her parents' picture
 in the hallway. The holo had been taken before Empire Day celebrations, in their
 nicest garb, but without the backdrop of troopers nor Imperial decorations
 hanging from official buildings yet.
 
-She climbed up to the roof and looked at the ballet of shuttles coming and
-leaving before the closing of the astroport. Today was a normal day in this
+She climbs up to the roof and looks at the ballet of shuttles coming and
+leaving before the closing of the spaceport.
+
+Increased shuttle traffic is relatively new, merely a few years. She knows,
+through conversations and her own memories, revisited for clues as she grew up,
+that when the Empire had arrived on Thabeska, they had initially kept the status
+quo of trading, but then enforced strict travelling guidelines that had had the
+effect to prevent all but the most prepared and tenacious (in the face of
+hostile bureaucracy) of captains.
+
+Had followed a period of several years without any non-Imperial starship
+entering or leaving the system. Speculation on what triggered it was rife with
+theories, some patently absurd, if entertaining, and it was a favourite topics
+in certain groups.
+
+Then the Fardi had managed to allow their ships in and out. And a few months
+later, that courtesy had been extended to all ships that could provide
+documentation and, according to the grapevine, a bribe. Said bribe was the
+largest obstacle to resuming full traffic: at several hundred credits, it was
+hard to justify for operators with tight margins, and impossible for small-time
+travellers for whom the amount represented months or even years of savings.
+
+Naema finishes marking up what she can see and what she can guess of the
+starship movements, recording also the distinctive blue-shifted glint flash of
+hyperspace entry. That's also a new thing. She speculates that while Imperial
+ships are confident in their safety, civilian and commercial outfits are much
+more skittish and engage their drives much sooner, before leaving the system.
+
+Of course, there's no way for her to confirm that. She doesn't even own a
+telescope, much less a sensor array, nor even a droid which could perceive more
+wavelength than she can. She has to rely on all she has: her eyes.
+
+'Droid' was on the list of maybe-get-if-possible, once. If Naema is being
+honest with herself, it still is, it's just that it would be expensive and the
+Imperial regulations make it risky, unless one is willing to get a useless
+droid. Well, useless for her. A housework droid is well and good, a protocol
+droid could be useful... perhaps. But they wouldn't help her get away.
+
+So it's not on the list for right now, anymore. Later, if, no, **when** she gets
+a ship? Well, an astromech will be a boon. Perhaps an old R-series, unless she
+gets really lucky and lands a more recent model. But these are more daydream
+considerations than practical ones, at this point.
+
+Today was a normal day in this
 regard, which in her datapad's detailed notes, meant there was no regular
 service arriving nor leaving. Thabeska wasn't visited by transport lines very
 often. Most of the traffic was planet-local, and the little portion that was
