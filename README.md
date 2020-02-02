@@ -2,6 +2,9 @@
 
 A multiverse of Star Wars fanfic.
 
+Well, originally written as a Star Wars fanfic, but pretty immediately departing into original material and world-building.
+With a bit of rework it could easily stand alone. Marked archived less for abandonment and more for later picking up thus.
+
 ## Thabeska cycle
 
 ### Jeira
